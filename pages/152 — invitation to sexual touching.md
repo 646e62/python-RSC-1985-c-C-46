@@ -10,28 +10,29 @@
 				- and $$x$$ invited $$y$$ for a sexual purpose
 				- and $$y < 16$$ years old
 			- Defendant $$x$$ is guilty of invitation to sexual touching
-				- if $$x$$ invites complainant $$y$$ to indirectly touch $$x$$'s body with $$y$$'s body
+				- if $$x$$ invited complainant $$y$$ to indirectly touch $$x$$'s body with $$y$$'s body
 				- and $$x$$ invited $$y$$ for a sexual purpose
 				- and $$y < 16$$ years old
 			- Defendant $$x$$ is guilty of invitation to sexual touching
-				- if $$x$$ invites complainant $$y$$ to indirectly touch a third party $$z$$'s body with $$y$$'s body
+				- if $$x$$ invited complainant $$y$$ to indirectly touch a third party $$z$$'s body with $$y$$'s body
 				- and $$x$$ invited $$y$$ for a sexual purpose
 				- and $$y < 16$$ years old
 		- ### object
 			- Defendant $$x$$ is guilty of invitation to sexual touching
-				- if $$x$$ invites complainant $$y$$ to directly touch $$x$$'s body with an object
+				- if $$x$$ invited complainant $$y$$ to directly touch $$x$$'s body with an object
+				- and $$x$$ invited $$y$$ for a sexual purpose
 				- and $$y < 16$$ years old
 			- Defendant $$x$$ is guilty of invitation to sexual touching
-				- if $$x$$ invites complainant $$y$$ to directly touch a third party $$z$$'s body with an object
-				- and $$x$$ invites $$y$$ for a sexual purpose
+				- if $$x$$ invited complainant $$y$$ to directly touch a third party $$z$$'s body with an object
+				- and $$x$$ invited $$y$$ for a sexual purpose
 				- and $$y < 16$$ years old
 			- Defendant $$x$$ is guilty of invitation to sexual touching
-				- if $$x$$ invites complainant $$y$$ to indirectly touch $$x$$'s body with an object
-				- and $$x$$ invites $$y$$ for a sexual purpose
+				- if $$x$$ invited complainant $$y$$ to indirectly touch $$x$$'s body with an object
+				- and $$x$$ invited $$y$$ for a sexual purpose
 				- and $$y < 16$$ years old
 			- Defendant $$x$$ is guilty of invitation to sexual touching
-				- if $$x$$ invites complainant $$y$$ to indirectly touch a third party $$z$$'s body with an object
-				- and $$x$$ invites $$y$$ for a sexual purpose
+				- if $$x$$ invited complainant $$y$$ to indirectly touch a third party $$z$$'s body with an object
+				- and $$x$$ invited $$y$$ for a sexual purpose
 				- and $$y < 16$$ years old
 	- ## liability
 		- ### 90d — 2y-1d
