@@ -25,7 +25,9 @@
 - # Part IV — justice and law administration
 - # Part V — sexual misconduct, public morality, and disorderly conduct
 	- ## Definitions
-	- ## 150.1 — Sexual
+	- ## 150.1 — sexual
+		- ### 150.1 — defences
+		- ### 151 — sexual interference
 		-
 	- ## Moral corruption
 	- ## Disorderly conduct
