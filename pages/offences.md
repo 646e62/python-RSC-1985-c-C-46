@@ -36,9 +36,10 @@
 		- ### 155 — incest
 		- ### 156 — historical offences repealed
 		- ### 160 — bestiality
-		- ### 161 — prohibition orders
+		- ### 161 — prohibition orders for certain offences
 		- ### 162 — voyeurism
 		- ### 162.1 — intimate images
+		- ### 162.2 — prohibition orders for intimate images offences
 		-
 	- ## 163 — Moral corruption
 	- ## 172.2 — Disorderly conduct
