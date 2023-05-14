@@ -40,8 +40,9 @@
 		- ### 162 — voyeurism
 		- ### 162.1 — intimate images
 		- ### 162.2 — prohibition orders for intimate images offences
-		-
 	- ## 163 — Moral corruption
+		- ### 163 — obscene materials
+		-
 	- ## 172.2 — Disorderly conduct
 	- ## 180 — Nuisances
 - # Part VI — privacy invasion
