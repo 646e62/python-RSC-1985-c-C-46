@@ -55,6 +55,7 @@
 		- ### 172.2 — agreeing to or arranging sexual offences against children
 		- ### 173(1) — indecent acts
 		- ### 173(2) — exposure
+		- ### 174 — nudity
 		-
 	- ## 180 — Nuisances
 - # Part VI — privacy invasion
