@@ -25,9 +25,11 @@
 - # Part IV — justice and law administration
 - # Part V — sexual misconduct, public morality, and disorderly conduct
 	- ## Definitions
-	- ## Sexual offences
-	- ## Moral corruption offences
-	- ##
+	- ## 150.1 — Sexual
+		-
+	- ## Moral corruption
+	- ## Disorderly conduct
+	- ## Nuisances
 - # Part VI — privacy invasion
 - # Part VII — disorderly houses, gaming, and betting
 - # Part VIII — person and reputation
