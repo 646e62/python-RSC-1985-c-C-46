@@ -15,6 +15,9 @@
 - # Part VII — disorderly houses, gaming, and betting
 - # Part VIII — person and reputation
 - # Part VIII.1 — conveyances
+- # Part IX — property rights
+- # Part X — fraudulent transactions
+- # Part XI — currency
 -
 - * Person and reputation
   * Conveyances
