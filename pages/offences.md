@@ -28,7 +28,7 @@
 - # Part V — sexual misconduct, public morality, and disorderly conduct
 	- ## Definitions
 	- ## 150.1 — sexual
-		- ### 151 — sexual interference
+		- ### [[151 — sexual interference]]
 		- ### 152 — invitation to sexual touching
 		- ### 153 — sexual exploitation
 		- ### 153.1 — sexually exploiting a person with a disability
@@ -61,7 +61,7 @@
 		- ### 177 — trespassing at night
 	- ## 180 — Nuisances
 		- ### 180 — common nuisance
-		-
+		- ### 182 — dead body
 - # Part VI — privacy invasion
 - # Part VII — disorderly houses, gaming, and betting
 - # Part VIII — person and reputation
