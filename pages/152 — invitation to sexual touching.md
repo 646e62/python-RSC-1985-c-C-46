@@ -1,6 +1,10 @@
 - # conditional outline
 	- ### body
 		- Defendant $$x$$ is guilty of invitation to sexual touching
+			- if $$x$$ invites complainant $$y$$ to directly touch $$x$$'s body with $$y$$'s body
+			- and $$x$$ invites $$y$$ for a sexual purpose
+			- and $$y < 16$$ years old
+		- Defendant $$x$$ is guilty of invitation to sexual touching
 			- if $$x$$ invites complainant $$y$$ to directly touch a third party's body with $$y$$'s body
 			- and $$x$$ invites $$y$$ for a sexual purpose
 			- and $$y < 16$$ years old
