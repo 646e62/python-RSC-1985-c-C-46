@@ -1,8 +1,9 @@
-- List of
-- [[attorney general]]
-- [[prosecutor]]
-- [[defendant]]
-- [[judge]]
-- [[justice]]
-- [[recognized child protection society]]
-- [[juvenile court officer]]
+- Parties that may initiate proceedings under the [[Criminal Code]]
+	- [[attorney general]]
+	- [[prosecutor]]
+	- [[defendant]]
+	- [[judge]]
+	- [[justice]]
+	- [[recognized child protection society]]
+	- [[juvenile court officer]]
+-
