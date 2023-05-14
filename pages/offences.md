@@ -34,8 +34,10 @@
 		- ### 153 — sexual exploitation
 		- ### 153.1 — sexually exploiting a person with a disability
 		- ### 155 — incest
-		- ### 156 — historical offences
+		- ### 156 — historical offences repealed
 		- ### 160 — bestiality
+		- ### 161 — prohibition orders
+		- ### 162 — voyeurism
 		-
 	- ## 163 — Moral corruption
 	- ## 172.2 — Disorderly conduct
