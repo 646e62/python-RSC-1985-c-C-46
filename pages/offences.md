@@ -38,7 +38,8 @@
 		- ### 160 — bestiality
 		- ### 161 — prohibition orders
 		- ### 162 — voyeurism
-		- ###
+		- ### 162.1 — intimate images
+		-
 	- ## 163 — Moral corruption
 	- ## 172.2 — Disorderly conduct
 	- ## 180 — Nuisances
