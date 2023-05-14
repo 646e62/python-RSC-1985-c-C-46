@@ -26,10 +26,9 @@
 - # Part III — firearms and other weapons
 - # Part IV — justice and law administration
 - # Part V — sexual misconduct, public morality, and disorderly conduct
-	- ## Definitions
 	- ## 150.1 — sexual
 		- ### [[151 — sexual interference]]
-		- ### 152 — invitation to sexual touching
+		- ### [[152 — invitation to sexual touching]]
 		- ### 153 — sexual exploitation
 		- ### 153.1 — sexually exploiting a person with a disability
 		- ### 155 — incest
