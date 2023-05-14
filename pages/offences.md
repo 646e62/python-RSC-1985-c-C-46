@@ -47,7 +47,7 @@
 		- ### 163.1(3) — distributing child pornography
 		- ### 163.1(4) — possessing child pornography
 		- ### 163.1(4.1) — accessing child pornography
-		-
+		- ### 163.1(4.3)
 	- ## 172.2 — Disorderly conduct
 	- ## 180 — Nuisances
 - # Part VI — privacy invasion
