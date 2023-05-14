@@ -17,7 +17,8 @@
 			- and $$x$$ touches $$y$$ for a sexual purpose
 			- and $$y < 16$$ years old
 	- ## liability
-		- ###
+		- ### 90d — 2y-1d
+		- ### 1 — 14y
 - # text
 	- ## Sexual interference
 		- Every person who, for a sexual purpose, touches, directly or indirectly, with a part of the body or with an object, any part of the body of a person under the age of 16 years
