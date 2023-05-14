@@ -50,8 +50,9 @@
 		- ### 171 — permitting prohibited sexual activity as a householder
 		- ### 171.1 — making sexually explicit material available to a child
 		- ### 172 — corrupting children
-		-
+		- ### 172.1 — luring a child
 	- ## 172.2 — Disorderly conduct
+		-
 	- ## 180 — Nuisances
 - # Part VI — privacy invasion
 - # Part VII — disorderly houses, gaming, and betting
