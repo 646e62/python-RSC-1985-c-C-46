@@ -60,6 +60,8 @@
 		- ### 176 — obstructing, assaulting, threatening, or arresting clergy
 		- ### 177 — trespassing at night
 	- ## 180 — Nuisances
+		- ### 180 — common nuisance
+		-
 - # Part VI — privacy invasion
 - # Part VII — disorderly houses, gaming, and betting
 - # Part VIII — person and reputation
