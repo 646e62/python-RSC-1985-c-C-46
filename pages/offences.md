@@ -19,6 +19,7 @@
 - # Part X — fraudulent transactions
 - # Part XI — property
 - # Part XII — currency
-- #
+- # Part XII.2 — criminal proceeds
+- # Part XIII — attempts, conspiracies, and accessories
 - * Criminal proceeds
   * Attempts, conspiracies, accessories
