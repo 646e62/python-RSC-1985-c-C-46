@@ -1,10 +1,18 @@
 - # conditional outline
 	- Defendant $$x$$ is guilty of sexual interference
-		- if $$x$$ touches complainant $$y$$ with a part of their body
+		- if $$x$$ touches complainant $$y$$ directly with a part of their body
 		- and $$x$$ touches $$y$$ for a sexual purpose
 		- and $$y < 16$$ years old
 	- Defendant $$x$$ is guilty of sexual interference
-		- if $$x$$ touches complainant $$y$$ with an object
+		- if $$x$$ touches complainant $$y$$ indirectly with a part of their body
+		- and $$x$$ touches $$y$$ for a sexual purpose
+		- and $$y < 16$$ years old
+	- Defendant $$x$$ is guilty of sexual interference
+		- if $$x$$ touches complainant $$y$$ directly with an object
+		- and $$x$$ touches $$y$$ for a sexual purpose
+		- and $$y < 16$$ years old
+	- Defendant $$x$$ is guilty of sexual interference
+		- if $$x$$ touches complainant $$y$$ indirectly with an object
 		- and $$x$$ touches $$y$$ for a sexual purpose
 		- and $$y < 16$$ years old
 - # text
