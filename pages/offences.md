@@ -36,11 +36,9 @@
 		- ### 155 — incest
 		- ### 156 — historical offences repealed
 		- ### 160 — bestiality
-		- ### 161 — prohibition orders for certain offences
 		- ### 162 — voyeurism
 		- ### 162.1 — intimate images
-		- ### 162.2 — prohibition orders for intimate images offences
-	- ## 163 — Moral corruption
+	- ## 163 — moral corruption
 		- ### 163 — obscene materials
 		- ### 163.1(1) — child pornography definitions
 		- ### 163.1(2) — making child pornography
