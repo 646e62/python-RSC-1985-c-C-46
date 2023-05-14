@@ -44,7 +44,10 @@
 		- ### 163 — obscene materials
 		- ### 163.1(1) — child pornography definitions
 		- ### 163.1(2) — making child pornography
-		- ### 163.1(3) —
+		- ### 163.1(3) — distributing child pornography
+		- ### 163.1(4) — possessing child pornography
+		- ### 163.1(4.1) — accessing child pornography
+		-
 	- ## 172.2 — Disorderly conduct
 	- ## 180 — Nuisances
 - # Part VI — privacy invasion
