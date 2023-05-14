@@ -17,13 +17,8 @@
 - # Part VIII.1 — conveyances
 - # Part IX — property rights
 - # Part X — fraudulent transactions
-- # Part XI — currency
--
-- * Person and reputation
-  * Conveyances
-  * Property rights
-  * Fraudulent transactions
-  * Property
-  * Currency
-  * Criminal proceeds
+- # Part XI — property
+- # Part XII — currency
+- #
+- * Criminal proceeds
   * Attempts, conspiracies, accessories
