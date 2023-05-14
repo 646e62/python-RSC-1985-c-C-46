@@ -57,6 +57,8 @@
 		- ### 173(2) — exposure
 		- ### 174 — nudity
 		- ### 175 — causing a disturbance
+		- ### 176 — obstructing, assaulting, threatening, or arresting clergy
+		- ### 177 — trespassing at night
 		-
 	- ## 180 — Nuisances
 - # Part VI — privacy invasion
