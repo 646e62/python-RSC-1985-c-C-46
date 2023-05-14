@@ -8,6 +8,34 @@ I'm designing a program to interpret the Criminal Code of Canada. The program wi
 ## Allegation object
 At their base, criminal offences are premised in a factual matrix that the state alleges took place. 
 
+The [Criminal Code's offence categorization](https://laws-lois.justice.gc.ca/eng/acts/C-46/) may not prove to be the best, but it serves as a starting point. 
+
+### Offence types
+
+* Public order
+* Terrorism
+* Firearm and weapon
+* Justice and law administration
+* Sexual, public morality, and disorderly conduct
+* Privacy invasion
+* Disorderly houses, gaming, and betting
+* Person and reputation
+* Conveyances
+* Property rights
+* Fraudulent transactions
+* Property
+* Currency
+* Criminal proceeds
+* Attempts, conspiracies, accessories
+
+## Expert systems
+
+### Definitions
+
+### Procedural functions
+
+### Evidence
+
 ## Things to continue to look into
 
 * Probability: can the expert system account for different probabilities and evaluate offences on that basis?
