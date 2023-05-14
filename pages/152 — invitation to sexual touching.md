@@ -37,11 +37,11 @@
 	- ## liability
 		- ### 90d — 2y-1d
 			- Defendant $$x$$ is liable to at least 90 days of custody and no more than two years less a day of custody
-				- if $$x$$ is guilty of sexual interference
+				- if $$x$$ is guilty of invitation to sexual touching
 				- and $$x$$ is summarily convicted
 		- ### 1 — 14y
 			- Defendant $$x$$ is liable to at least 1 year of custody and no more than 14 years of custody
-				- if $$x$$ is guilty of sexual interference
+				- if $$x$$ is guilty of invitation to sexual touching
 				- and $$x$$ is convicted after indictment
 - # text
 	- ## Invitation to sexual touching
