@@ -47,6 +47,7 @@
 		- ### 167 — immoral theatrical performances
 		- ### 168 — mailing obscene material
 		- ### 170 — procuring sexual activity as a parent or guardian
+		- ### 171 — permitting prohibited sexual activity as a householder
 		-
 	- ## 172.2 — Disorderly conduct
 	- ## 180 — Nuisances
