@@ -3,7 +3,10 @@
 	- ## Party liability
 	- ## Law enforcement protections
 	- ## Riot suppression
-	-
+	- ## Self-induced extreme intoxication
+	- ## Personal defence
+	- ## Property defence
+	- ## Protecting persons in authority
 - # Part II — public order
 	- ## Treason
 	- ## Other offences against the King's authority or person
@@ -12,6 +15,9 @@
 	- ## Sedition
 	- ## Unlawful assemblies and riots
 	- ## Duels
+	- ## Forcible entry and detainer
+	- ## Piracy
+	- ## Air or maritime safety
 	-
 - # Part II.1 — terrorism
 - # Part III — firearms and other weapons
