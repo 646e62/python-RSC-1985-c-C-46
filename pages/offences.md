@@ -53,7 +53,8 @@
 		- ### 172.1 — luring a child
 	- ## 172.2 — Disorderly conduct
 		- ### 172.2 — agreeing to or arranging sexual offences against children
-		-
+		- ### 173(1) — indecent acts
+		- ### 173(2)
 	- ## 180 — Nuisances
 - # Part VI — privacy invasion
 - # Part VII — disorderly houses, gaming, and betting
