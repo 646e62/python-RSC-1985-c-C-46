@@ -1,38 +1,41 @@
 - # conditional outline
-	- ### body
-		- Defendant $$x$$ is guilty of invitation to sexual touching
-			- if $$x$$ invites complainant $$y$$ to directly touch $$x$$'s body with $$y$$'s body
-			- and $$x$$ invites $$y$$ for a sexual purpose
-			- and $$y < 16$$ years old
-		- Defendant $$x$$ is guilty of invitation to sexual touching
-			- if $$x$$ invites complainant $$y$$ to directly touch a third party $$z$$'s body with $$y$$'s body
-			- and $$x$$ invites $$y$$ for a sexual purpose
-			- and $$y < 16$$ years old
-		- Defendant $$x$$ is guilty of invitation to sexual touching
-			- if $$x$$ invites complainant $$y$$ to indirectly touch $$x$$'s body with $$y$$'s body
-			- and $$x$$ invites $$y$$ for a sexual purpose
-			- and $$y < 16$$ years old
-		- Defendant $$x$$ is guilty of invitation to sexual touching
-			- if $$x$$ invites complainant $$y$$ to indirectly touch a third party $$z$$'s body with $$y$$'s body
-			- and $$x$$ invites $$y$$ for a sexual purpose
-			- and $$y < 16$$ years old
-	- ### object
-		- Defendant $$x$$ is guilty of invitation to sexual touching
-			- if $$x$$ invites complainant $$y$$ to directly touch $$x$$'s body with an object
-			- and $$x$$ invites $$y$$ for a sexual purpose
-			- and $$y < 16$$ years old
-		- Defendant $$x$$ is guilty of invitation to sexual touching
-			- if $$x$$ invites complainant $$y$$ to directly touch a third party $$z$$'s body with an object
-			- and $$x$$ invites $$y$$ for a sexual purpose
-			- and $$y < 16$$ years old
-		- Defendant $$x$$ is guilty of invitation to sexual touching
-			- if $$x$$ invites complainant $$y$$ to indirectly touch $$x$$'s body with $$y$$'s body
-			- and $$x$$ invites $$y$$ for a sexual purpose
-			- and $$y < 16$$ years old
-		- Defendant $$x$$ is guilty of invitation to sexual touching
-			- if $$x$$ invites complainant $$y$$ to indirectly touch a third party $$z$$'s body with $$y$$'s body
-			- and $$x$$ invites $$y$$ for a sexual purpose
-			- and $$y < 16$$ years old
+	- ## offence
+		- ### body
+			- Defendant $$x$$ is guilty of invitation to sexual touching
+				- if $$x$$ invites complainant $$y$$ to directly touch $$x$$'s body with $$y$$'s body
+				- and $$x$$ invites $$y$$ for a sexual purpose
+				- and $$y < 16$$ years old
+			- Defendant $$x$$ is guilty of invitation to sexual touching
+				- if $$x$$ invites complainant $$y$$ to directly touch a third party $$z$$'s body with $$y$$'s body
+				- and $$x$$ invites $$y$$ for a sexual purpose
+				- and $$y < 16$$ years old
+			- Defendant $$x$$ is guilty of invitation to sexual touching
+				- if $$x$$ invites complainant $$y$$ to indirectly touch $$x$$'s body with $$y$$'s body
+				- and $$x$$ invites $$y$$ for a sexual purpose
+				- and $$y < 16$$ years old
+			- Defendant $$x$$ is guilty of invitation to sexual touching
+				- if $$x$$ invites complainant $$y$$ to indirectly touch a third party $$z$$'s body with $$y$$'s body
+				- and $$x$$ invites $$y$$ for a sexual purpose
+				- and $$y < 16$$ years old
+		- ### object
+			- Defendant $$x$$ is guilty of invitation to sexual touching
+				- if $$x$$ invites complainant $$y$$ to directly touch $$x$$'s body with an object
+				- and $$x$$ invites $$y$$ for a sexual purpose
+				- and $$y < 16$$ years old
+			- Defendant $$x$$ is guilty of invitation to sexual touching
+				- if $$x$$ invites complainant $$y$$ to directly touch a third party $$z$$'s body with an object
+				- and $$x$$ invites $$y$$ for a sexual purpose
+				- and $$y < 16$$ years old
+			- Defendant $$x$$ is guilty of invitation to sexual touching
+				- if $$x$$ invites complainant $$y$$ to indirectly touch $$x$$'s body with an object
+				- and $$x$$ invites $$y$$ for a sexual purpose
+				- and $$y < 16$$ years old
+			- Defendant $$x$$ is guilty of invitation to sexual touching
+				- if $$x$$ invites complainant $$y$$ to indirectly touch a third party $$z$$'s body with an object
+				- and $$x$$ invites $$y$$ for a sexual purpose
+				- and $$y < 16$$ years old
+	- ## liability
+		-
 - # text
 	- ## Invitation to sexual touching
 		- Every person who, for a sexual purpose, invites, counsels or incites a person under the age of 16 years to touch, directly or indirectly, with a part of the body or with an object, the body of any person, including the body of the person who so invites, counsels or incites and the body of the person under the age of 16 years,
