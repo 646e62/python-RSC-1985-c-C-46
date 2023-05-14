@@ -18,7 +18,9 @@
 			- and $$y < 16$$ years old
 	- ## liability
 		- ### 90d — 2y-1d
-			- Defendant $$x$$ is liable to
+			- Defendant $$x$$ is liable to at least 90 days of custody and no more than two years less a day of custody
+				- if $$x$$ is guilty of sexual interference
+				- and $$x$$ is punished on summary conviction
 		- ### 1 — 14y
 - # text
 	- ## Sexual interference
