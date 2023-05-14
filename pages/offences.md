@@ -56,6 +56,7 @@
 		- ### 173(1) — indecent acts
 		- ### 173(2) — exposure
 		- ### 174 — nudity
+		- ### 175 — causing a disturbance
 		-
 	- ## 180 — Nuisances
 - # Part VI — privacy invasion
