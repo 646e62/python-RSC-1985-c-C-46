@@ -4,7 +4,7 @@
 		- and $$x$$ touches $$y$$ for a sexual purpose
 		- and $$y < 16$$ years old
 	- Defendant $$x$$ is guilty of sexual interference
-		- if $$x$$ touches complainant $$y$$ with a part of their body
+		- if $$x$$ touches complainant $$y$$ with an object
 		- and $$x$$ touches $$y$$ for a sexual purpose
 		- and $$y < 16$$ years old
 - # text
