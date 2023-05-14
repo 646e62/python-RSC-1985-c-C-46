@@ -1,4 +1,5 @@
 - # Part I
+  collapsed:: true
 	- ## General
 	- ## Party liability
 	- ## Law enforcement protections
@@ -8,6 +9,7 @@
 	- ## Property defence
 	- ## Protecting persons in authority
 - # Part II — public order
+  collapsed:: true
 	- ## Treason
 	- ## Other offences against the King's authority or person
 	- ## Prohibited acts
@@ -30,6 +32,7 @@
 		- ### 151 — sexual interference
 		- ### 152 — invitation to sexual touching
 		- ### 153 — sexual exploitation
+		- ### 153.1 — sexually exploiting a person with a disability
 		-
 	- ## Moral corruption
 	- ## Disorderly conduct
@@ -44,5 +47,4 @@
 - # Part XII — currency
 - # Part XII.2 — criminal proceeds
 - # Part XIII — attempts, conspiracies, and accessories
-- * Criminal proceeds
-  * Attempts, conspiracies, accessories
+	-
