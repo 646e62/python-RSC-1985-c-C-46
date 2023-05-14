@@ -1,6 +1,6 @@
 - # Part V — sexual misconduct, public morality, and disorderly conduct
 	- ## 150.1 — sexual
-		- ### 153(3) — definition
+		- ### 153(3) — sexual exploitation (definitions)
 	- ## 163 — moral corruption
-		- ### 163(7) — additional definition
+		- ### 163(7) — additional definitions
 		- ### 164(8) — additional definitions
