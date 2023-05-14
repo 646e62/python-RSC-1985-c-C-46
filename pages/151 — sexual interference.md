@@ -1,20 +1,23 @@
 - # conditional outline
-	- Defendant $$x$$ is guilty of sexual interference
-		- if $$x$$ touches complainant $$y$$ directly with a part of their body
-		- and $$x$$ touches $$y$$ for a sexual purpose
-		- and $$y < 16$$ years old
-	- Defendant $$x$$ is guilty of sexual interference
-		- if $$x$$ touches complainant $$y$$ indirectly with a part of their body
-		- and $$x$$ touches $$y$$ for a sexual purpose
-		- and $$y < 16$$ years old
-	- Defendant $$x$$ is guilty of sexual interference
-		- if $$x$$ touches complainant $$y$$ directly with an object
-		- and $$x$$ touches $$y$$ for a sexual purpose
-		- and $$y < 16$$ years old
-	- Defendant $$x$$ is guilty of sexual interference
-		- if $$x$$ touches complainant $$y$$ indirectly with an object
-		- and $$x$$ touches $$y$$ for a sexual purpose
-		- and $$y < 16$$ years old
+	- ## offence
+		- Defendant $$x$$ is guilty of sexual interference
+			- if $$x$$ touches complainant $$y$$ directly with a part of their body
+			- and $$x$$ touches $$y$$ for a sexual purpose
+			- and $$y < 16$$ years old
+		- Defendant $$x$$ is guilty of sexual interference
+			- if $$x$$ touches complainant $$y$$ indirectly with a part of their body
+			- and $$x$$ touches $$y$$ for a sexual purpose
+			- and $$y < 16$$ years old
+		- Defendant $$x$$ is guilty of sexual interference
+			- if $$x$$ touches complainant $$y$$ directly with an object
+			- and $$x$$ touches $$y$$ for a sexual purpose
+			- and $$y < 16$$ years old
+		- Defendant $$x$$ is guilty of sexual interference
+			- if $$x$$ touches complainant $$y$$ indirectly with an object
+			- and $$x$$ touches $$y$$ for a sexual purpose
+			- and $$y < 16$$ years old
+	- ## liability
+		- ###
 - # text
 	- ## Sexual interference
 		- Every person who, for a sexual purpose, touches, directly or indirectly, with a part of the body or with an object, any part of the body of a person under the age of 16 years
