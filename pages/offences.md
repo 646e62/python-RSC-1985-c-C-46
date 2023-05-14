@@ -34,9 +34,9 @@
 		- ### 153 — sexual exploitation
 		- ### 153.1 — sexually exploiting a person with a disability
 		-
-	- ## Moral corruption
-	- ## Disorderly conduct
-	- ## Nuisances
+	- ## 163 — Moral corruption
+	- ## 172.2 — Disorderly conduct
+	- ## 180 — Nuisances
 - # Part VI — privacy invasion
 - # Part VII — disorderly houses, gaming, and betting
 - # Part VIII — person and reputation
