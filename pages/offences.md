@@ -28,7 +28,6 @@
 - # Part V — sexual misconduct, public morality, and disorderly conduct
 	- ## Definitions
 	- ## 150.1 — sexual
-		- ### 150.1 — defences
 		- ### 151 — sexual interference
 		- ### 152 — invitation to sexual touching
 		- ### 153 — sexual exploitation
@@ -46,8 +45,6 @@
 		- ### 163.1(4) — possessing child pornography
 		- ### 163.1(4.1) — accessing child pornography
 		- ### 163.1(4.3) — profit motive aggravating factor
-		- ### 163.1(5) — defences
-		-
 	- ## 172.2 — Disorderly conduct
 	- ## 180 — Nuisances
 - # Part VI — privacy invasion
