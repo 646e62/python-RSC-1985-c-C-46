@@ -7,13 +7,15 @@
 	- ## Unlawful assemblies and riots
 	- ## Duels
 	-
-- # Part II.1 – terrorism
-# Part III: firearms and other weapons
-# Part IV: justice and law administration
-# Part V: sexual misconduct, public morality, and disorderly conduct
-- # Part VI: privacy invasion
-- # Part VII — Disorderly houses, gaming, and betting
-  * Person and reputation
+- # Part II.1 — terrorism
+- # Part III — firearms and other weapons
+- # Part IV — justice and law administration
+- # Part V — sexual misconduct, public morality, and disorderly conduct
+- # Part VI — privacy invasion
+- # Part VII — disorderly houses, gaming, and betting
+- # Part VIII — person and reputation
+-
+- * Person and reputation
   * Conveyances
   * Property rights
   * Fraudulent transactions
