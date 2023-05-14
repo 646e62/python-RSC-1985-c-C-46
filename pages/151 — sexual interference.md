@@ -1,21 +1,23 @@
 - # conditional outline
 	- ## offence
-		- Defendant $$x$$ is guilty of sexual interference
-			- if $$x$$ touches complainant $$y$$ directly with a part of their body
-			- and $$x$$ touches $$y$$ for a sexual purpose
-			- and $$y < 16$$ years old
-		- Defendant $$x$$ is guilty of sexual interference
-			- if $$x$$ touches complainant $$y$$ indirectly with a part of their body
-			- and $$x$$ touches $$y$$ for a sexual purpose
-			- and $$y < 16$$ years old
-		- Defendant $$x$$ is guilty of sexual interference
-			- if $$x$$ touches complainant $$y$$ directly with an object
-			- and $$x$$ touches $$y$$ for a sexual purpose
-			- and $$y < 16$$ years old
-		- Defendant $$x$$ is guilty of sexual interference
-			- if $$x$$ touches complainant $$y$$ indirectly with an object
-			- and $$x$$ touches $$y$$ for a sexual purpose
-			- and $$y < 16$$ years old
+		- ### body part
+			- Defendant $$x$$ is guilty of sexual interference
+				- if $$x$$ touches complainant $$y$$ directly with a part of their body
+				- and $$x$$ touches $$y$$ for a sexual purpose
+				- and $$y < 16$$ years old
+			- Defendant $$x$$ is guilty of sexual interference
+				- if $$x$$ touches complainant $$y$$ indirectly with a part of their body
+				- and $$x$$ touches $$y$$ for a sexual purpose
+				- and $$y < 16$$ years old
+		- ### object
+			- Defendant $$x$$ is guilty of sexual interference
+				- if $$x$$ touches complainant $$y$$ directly with an object
+				- and $$x$$ touches $$y$$ for a sexual purpose
+				- and $$y < 16$$ years old
+			- Defendant $$x$$ is guilty of sexual interference
+				- if $$x$$ touches complainant $$y$$ indirectly with an object
+				- and $$x$$ touches $$y$$ for a sexual purpose
+				- and $$y < 16$$ years old
 	- ## liability
 		- ### 90d — 2y-1d
 			- Defendant $$x$$ is liable to at least 90 days of custody and no more than two years less a day of custody
