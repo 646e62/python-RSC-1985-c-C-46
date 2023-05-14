@@ -22,7 +22,9 @@
 				- if $$x$$ is guilty of sexual interference
 				- and $$x$$ is summarily convicted
 		- ### 1 — 14y
-			-
+			- Defendant $$x$$ is liable to at least 1 year of custody and no more than 14 years of custody
+				- if $$x$$ is guilty of sexual interference
+				- and $$x$$ is summarily convicted
 - # text
 	- ## Sexual interference
 		- Every person who, for a sexual purpose, touches, directly or indirectly, with a part of the body or with an object, any part of the body of a person under the age of 16 years
