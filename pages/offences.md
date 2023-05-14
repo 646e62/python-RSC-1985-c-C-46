@@ -17,8 +17,9 @@
 	- ## Duels
 	- ## Forcible entry and detainer
 	- ## Piracy
-	- ## Air or maritime safety
-	-
+	- ## Air and maritime safety
+	- ## Dangerous materials and devices
+	- ## Prize fights
 - # Part II.1 — terrorism
 - # Part III — firearms and other weapons
 - # Part IV — justice and law administration
