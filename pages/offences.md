@@ -1,11 +1,11 @@
 - # Part I
 	- ## 3.1 — general
-	- ## 21arty liability
-	- ## Law enforcement protections
-	- ## Riot suppression
-	- ## Self-induced extreme intoxication
-	- ## Personal defence
-	- ## Property defence
+	- ## 21 — party liability
+	- ## 25 — law enforcement protections
+	- ## 32 — riot suppression
+	- ## 33.1 — self-induced extreme intoxication
+	- ## 34 — personal defence
+	- ## roperty defence
 	- ## Protecting persons in authority
 - # Part II — public order
 	- ## Treason
