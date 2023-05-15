@@ -23,6 +23,7 @@
 	- ## Dangerous materials and devices
 	- ## Prize fights
 - # Part II.1 — terrorism
+	- ## 83
 - # Part III — firearms and other weapons
 - # Part IV — justice and law administration
 - # Part V — sexual misconduct, public morality, and disorderly conduct
@@ -37,6 +38,7 @@
 		- ### 162 — voyeurism
 		- ### 162.1 — intimate images
 	- ## 163 — moral corruption
+	  collapsed:: true
 		- ### 163 — obscene materials
 		- ### 163.1(1) — child pornography definitions
 		- ### 163.1(2) — making child pornography
@@ -51,6 +53,7 @@
 		- ### 172 — corrupting children
 		- ### 172.1 — luring a child
 	- ## 172.2 — Disorderly conduct
+	  collapsed:: true
 		- ### 172.2 — agreeing to or arranging sexual offences against children
 		- ### 173(1) — indecent acts
 		- ### 173(2) — exposure
@@ -59,6 +62,7 @@
 		- ### 176 — obstructing, assaulting, threatening, or arresting clergy
 		- ### 177 — trespassing at night
 	- ## 180 — Nuisances
+	  collapsed:: true
 		- ### 180 — common nuisance
 		- ### 182 — dead body
 - # Part VI — privacy invasion
