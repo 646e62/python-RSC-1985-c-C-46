@@ -59,7 +59,7 @@
 		- ### [[160 — bestiality]]
 		- ### [[160(5)(a) — prohibition breach (bestiality)]]
 		- ### [[162 — voyeurism]]
-		- ### 162.1 — intimate images
+		- ### [[162.1 — intimate images]]
 	- ## 163 — moral corruption
 	  collapsed:: true
 		- ### 163 — obscene materials
