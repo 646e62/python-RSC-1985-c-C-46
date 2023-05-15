@@ -166,6 +166,9 @@
 	- ## 462 — forfeiture
 - # Part XII.2 — criminal proceeds
 	- ## 462.3 — interpretation
-	- ## 462.
+	- ## 462.31 — offence
+	- ## 462.32 — searching, seizing, and detaining criminal proceeds
+	- ## 462.37 — forfeiting criminal proceeds
+	- ## 462.47 —
 - # Part XIII — attempts, conspiracies, and accessories
 	-
