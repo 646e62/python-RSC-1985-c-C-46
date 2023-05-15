@@ -35,6 +35,11 @@
 	- ## 83.24 — proceedings and aggravated punishment
 	- ## 83.3 — recognizance with conditions
 - # Part III — firearms and other weapons
+	- ## 84 — interpretation
+	- ## 85 — use
+	- ## 88 — possession
+	- ## 99 — trafficking
+	- ## 102 — assembling
 	-
 - # Part IV — justice and law administration
 - # Part V — sexual misconduct, public morality, and disorderly conduct
