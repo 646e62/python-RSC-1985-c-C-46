@@ -110,7 +110,9 @@
 	- ## 242 — child-birth neglect and concealing dead bodies
 	- ## 244 — bodily harm causing personal danger
 	- ## 264.1 — assaults
-	- ## 279 — kidnapping
+	- ## 279 — kidnapping, human trafficking, hostage-taking, abduction
+	- ## 286.1 — sexual activity commodification
+	-
 	-
 - # Part VIII.1 — conveyances
 	-
