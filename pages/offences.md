@@ -128,6 +128,10 @@
 	- ## 320.31 — evidence
 	- ## 320.36 — general provisions
 - # Part IX — property rights
+	- ## 321 — interpretation
+	- ## 322 — theft
+	- ## 335 — theft-like
+	- ## 343 — robbery and extortion
 	-
 - # Part X — fraudulent transactions
 	-
