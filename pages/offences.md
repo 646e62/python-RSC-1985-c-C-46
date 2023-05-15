@@ -107,7 +107,11 @@
 	- ## 240.1 — human organ trafficking
 	- ## 241 — suicide
 	- ## 241.1 — medical assistance in dying
-	- ## 242 —
+	- ## 242 — child-birth neglect and concealing dead bodies
+	- ## 244 — bodily harm causing personal danger
+	- ## 264.1 — assaults
+	- ## 279 — kidnapping
+	-
 - # Part VIII.1 — conveyances
 	-
 - # Part IX — property rights
