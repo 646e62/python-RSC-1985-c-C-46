@@ -35,6 +35,7 @@
 	- ## 83.24 — proceedings and aggravated punishment
 	- ## 83.3 — recognizance with conditions
 - # Part III — firearms and other weapons
+  collapsed:: true
 	- ## 84 — interpretation
 	- ## 85 — use
 	- ## 88 — possession
@@ -44,8 +45,11 @@
 	- ## 105 — lost, destroyed, defaced weapons
 	- ## 109 — prohibition orders
 	- ## 117.011 — access limitations
-	- ## 117.02 —
+	- ## 117.02 — searches and seizures
+	- ## 117.07 — exempted persons
+	- ## 117.11 — general
 - # Part IV — justice and law administration
+	-
 - # Part V — sexual misconduct, public morality, and disorderly conduct
 	- ## 150.1 — sexual
 		- ### [[151 — sexual interference]]
