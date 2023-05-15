@@ -1,6 +1,7 @@
 - # conditional outline
 	- Defendant $$x$$ breached a bestiality prohibition order
-		- if $$x$$ was subject to a
+		- if $$x$$ was subject to a [[160(4) — prohibition or restitution (bestiality)]] prohibition order
+		- and $$x$$ owned an animal
 - # text
 	- ## (4) — order of prohibition or restitution
 		- The court may, in addition to any other sentence that it may impose under any of subsections (1) to (3),
