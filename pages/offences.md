@@ -132,7 +132,11 @@
 	- ## 322 — theft
 	- ## 335 — theft-like
 	- ## 343 — robbery and extortion
-	-
+	- ## 347 — criminal interest rate
+	- ## 348 — breaking and entering
+	- ## 354 — possession and trafficking
+	- ## 361 — false pretences
+	- ## 366 — forgery and forgery-like
 - # Part X — fraudulent transactions
 	-
 - # Part XI — property
