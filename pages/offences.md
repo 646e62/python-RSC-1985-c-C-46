@@ -150,7 +150,10 @@
 - # Part XI — property
 	- ## 428 — interpretation
 	- ## 430 — mischief
-	-
+	- ## 430 — arson and other fires
+	- ## 437 — other property interference
+	- ## 444 — animals
+	- ## 445.1 — cruelty to animals
 - # Part XII — currency
 	-
 - # Part XII.2 — criminal proceeds
