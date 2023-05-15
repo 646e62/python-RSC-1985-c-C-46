@@ -103,6 +103,9 @@
 	- ## 215 — life preservation duties
 	- ## 219 — criminal negligence
 	- ## 222 — homicide
+	- ## 229 — murder, manslaughter, infanticide
+	- ## 240.1 — human organ trafficking
+	- ## 241 — suicide
 	-
 - # Part VIII.1 — conveyances
 	-
