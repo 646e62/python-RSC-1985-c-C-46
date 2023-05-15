@@ -23,6 +23,7 @@
 	- ## Dangerous materials and devices
 	- ## Prize fights
 - # Part II.1 — terrorism
+  collapsed:: true
 	- ## 83.01 — interpretation
 	- ## 83.02 — terrorism financing
 	- ## 83.05 — terrorist entities
@@ -31,8 +32,10 @@
 	- ## 83.14 — forfeiting property
 	- ## 83.18 — participating, facilitating, instructing, harbouring
 	- ## 83.231 — terrorist activity hoaxes
-	- ##
+	- ## 83.24 — proceedings and aggravated punishment
+	- ## 83.3 — recognizance with conditions
 - # Part III — firearms and other weapons
+	-
 - # Part IV — justice and law administration
 - # Part V — sexual misconduct, public morality, and disorderly conduct
 	- ## 150.1 — sexual
