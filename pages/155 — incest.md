@@ -1,4 +1,7 @@
 - # conditional outline
+	- Defendant $$x$$ commits incest
+		- if $$x$$ has sexual intercourse with complainant $$y$$
+		- and $$x$$ knows
 - # text
 	- ## incest
 		- (1) Every one commits incest who, knowing that another person is by blood relationship his or her parent, child, brother, sister, grandparent or grandchild, as the case may be, has sexual intercourse with that person.
