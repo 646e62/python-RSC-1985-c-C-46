@@ -112,6 +112,8 @@
 	- ## 264.1 — assaults
 	- ## 279 — kidnapping, human trafficking, hostage-taking, abduction
 	- ## 286.1 — sexual activity commodification
+	- ## 287 — abortion
+	- ## 289 — venereal diseases
 	-
 	-
 - # Part VIII.1 — conveyances
