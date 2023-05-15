@@ -21,12 +21,12 @@
 				- if $$x$$ has sexual intercourse with complainant $$y$$
 				- and $$x$$ knows $$y$$ is their half-sister
 		- ### grandparents and grandchildren
-		- Defendant $$x$$ commits incest
-			- if $$x$$ has sexual intercourse with complainant $$y$$
-			- and $$x$$ knows $$y$$ is their grandparent
-		- Defendant $$x$$ commits incest
-			- if $$x$$ has sexual intercourse with complainant $$y$$
-			- and $$x$$ knows $$y$$ is their grandchild
+			- Defendant $$x$$ commits incest
+				- if $$x$$ has sexual intercourse with complainant $$y$$
+				- and $$x$$ knows $$y$$ is their grandparent
+			- Defendant $$x$$ commits incest
+				- if $$x$$ has sexual intercourse with complainant $$y$$
+				- and $$x$$ knows $$y$$ is their grandchild
 	- ## liability
 		-
 - # text
