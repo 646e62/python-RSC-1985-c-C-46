@@ -1,18 +1,26 @@
 - # conditional outline
 	- ## offence
-		- Defendant $$x$$ commits incest
-			- if $$x$$ has sexual intercourse with complainant $$y$$
-			- and $$x$$ knows $$y$$ is their parent
-		- Defendant $$x$$ commits incest
-			- if $$x$$ has sexual intercourse with complainant $$y$$
-			- and $$x$$ knows $$y$$ is their child
-		- Defendant $$x$$ commits incest
-			- if $$x$$ has sexual intercourse with complainant $$y$$
-			- and $$x$$ knows $$y$$ is their brother
-		- Defendant $$x$$ commits incest
-			- if $$x$$ has sexual intercourse with complainant $$y$$
-			- and $$x$$ knows $$y$$ is their sister
-		-
+		- ### parents and children
+			- Defendant $$x$$ commits incest
+				- if $$x$$ has sexual intercourse with complainant $$y$$
+				- and $$x$$ knows $$y$$ is their parent
+			- Defendant $$x$$ commits incest
+				- if $$x$$ has sexual intercourse with complainant $$y$$
+				- and $$x$$ knows $$y$$ is their child
+		- ### siblings
+			- Defendant $$x$$ commits incest
+				- if $$x$$ has sexual intercourse with complainant $$y$$
+				- and $$x$$ knows $$y$$ is their brother
+			- Defendant $$x$$ commits incest
+				- if $$x$$ has sexual intercourse with complainant $$y$$
+				- and $$x$$ knows $$y$$ is their sister
+			- Defendant $$x$$ commits incest
+				- if $$x$$ has sexual intercourse with complainant $$y$$
+				- and $$x$$ knows $$y$$ is their half-brother
+			- Defendant $$x$$ commits incest
+				- if $$x$$ has sexual intercourse with complainant $$y$$
+				- and $$x$$ knows $$y$$ is their half-sister
+		- ### grandparents and grandchildren
 		- Defendant $$x$$ commits incest
 			- if $$x$$ has sexual intercourse with complainant $$y$$
 			- and $$x$$ knows $$y$$ is their grandparent
