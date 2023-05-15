@@ -6,27 +6,45 @@
 				- and $$x$$ knew $$y$$ is their parent
 				- and $$x$$ was not restrained by $$y$$
 				- and $$x$$ was not under duress by $$y$$
-				- and $$x$$
+				- and $$x$$ was not afraid of $$y$$
 			- Defendant $$x$$ commits incest
 				- if $$x$$ has sexual intercourse with complainant $$y$$
 				- and $$x$$ knows $$y$$ is their child
+				- and $$x$$ was not restrained by $$y$$
+				- and $$x$$ was not under duress by $$y$$
+				- and $$x$$ was not afraid of $$y$$
 		- ### siblings
 			- Defendant $$x$$ commits incest
 				- if $$x$$ has sexual intercourse with complainant $$y$$
 				- and $$x$$ knows $$y$$ is their brother
+				- and $$x$$ was not restrained by $$y$$
+				- and $$x$$ was not under duress by $$y$$
+				- and $$x$$ was not afraid of $$y$$
 			- Defendant $$x$$ commits incest
 				- if $$x$$ has sexual intercourse with complainant $$y$$
 				- and $$x$$ knows $$y$$ is their sister
+				- and $$x$$ was not restrained by $$y$$
+				- and $$x$$ was not under duress by $$y$$
+				- and $$x$$ was not afraid of $$y$$
 			- Defendant $$x$$ commits incest
 				- if $$x$$ has sexual intercourse with complainant $$y$$
 				- and $$x$$ knows $$y$$ is their half-brother
+				- and $$x$$ was not restrained by $$y$$
+				- and $$x$$ was not under duress by $$y$$
+				- and $$x$$ was not afraid of $$y$$
 			- Defendant $$x$$ commits incest
 				- if $$x$$ has sexual intercourse with complainant $$y$$
 				- and $$x$$ knows $$y$$ is their half-sister
+				- and $$x$$ was not restrained by $$y$$
+				- and $$x$$ was not under duress by $$y$$
+				- and $$x$$ was not afraid of $$y$$
 		- ### grandparents and grandchildren
 			- Defendant $$x$$ commits incest
 				- if $$x$$ has sexual intercourse with complainant $$y$$
 				- and $$x$$ knows $$y$$ is their grandparent
+				- and $$x$$ was not restrained by $$y$$
+				- and $$x$$ was not under duress by $$y$$
+				- and $$x$$ was not afraid of $$y$$
 			- Defendant $$x$$ commits incest
 				- if $$x$$ has sexual intercourse with complainant $$y$$
 				- and $$x$$ knows $$y$$ is their grandchild
