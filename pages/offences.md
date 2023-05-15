@@ -113,7 +113,11 @@
 	- ## 279 — kidnapping, human trafficking, hostage-taking, abduction
 	- ## 286.1 — sexual activity commodification
 	- ## 287 — abortion
-	- ## 289 — venereal diseases
+	- ## 289 — venereal disease
+	- ## 290 — conjugal rights
+	- ## 294 — unlawful marriage solemnization
+	- ## 297 — defamatory libel
+	- ## 317 — verdicts
 	-
 	-
 - # Part VIII.1 — conveyances
