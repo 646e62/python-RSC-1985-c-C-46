@@ -49,11 +49,11 @@
 	- ## 117.07 — exempted persons
 	- ## 117.11 — general
 - # Part IV — justice and law administration
-	- ## 150 — interpretation
-	- ## 150.1 — corruption and disobedience
-	- ## 163 — moral-corrupting offences
-	- ## 172.2 — disorderly conduct
-	- ## 180 — nuisances
+  collapsed:: true
+	- ## 118 — interpretation
+	- ## 119 — corruption and disobedience
+	- ## 131 — misleading justice
+	- ## 144 — escapes and rescues
 - # Part V — sexual misconduct, public morality, and disorderly conduct
 	- ## 150.1 — sexual
 		- ### [[151 — sexual interference]]
