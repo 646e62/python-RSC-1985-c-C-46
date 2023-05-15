@@ -1,23 +1,26 @@
 - # conditional outline
 	- ## offence
-	- Defendant $$x$$ commits incest
-		- if $$x$$ has sexual intercourse with complainant $$y$$
-		- and $$x$$ knows $$y$$ is their parent
-	- Defendant $$x$$ commits incest
-		- if $$x$$ has sexual intercourse with complainant $$y$$
-		- and $$x$$ knows $$y$$ is their child
-	- Defendant $$x$$ commits incest
-		- if $$x$$ has sexual intercourse with complainant $$y$$
-		- and $$x$$ knows $$y$$ is their brother
-	- Defendant $$x$$ commits incest
-		- if $$x$$ has sexual intercourse with complainant $$y$$
-		- and $$x$$ knows $$y$$ is their sister
-	- Defendant $$x$$ commits incest
-		- if $$x$$ has sexual intercourse with complainant $$y$$
-		- and $$x$$ knows $$y$$ is their grandparent
-	- Defendant $$x$$ commits incest
-		- if $$x$$ has sexual intercourse with complainant $$y$$
-		- and $$x$$ knows $$y$$ is their grandchild
+		- Defendant $$x$$ commits incest
+			- if $$x$$ has sexual intercourse with complainant $$y$$
+			- and $$x$$ knows $$y$$ is their parent
+		- Defendant $$x$$ commits incest
+			- if $$x$$ has sexual intercourse with complainant $$y$$
+			- and $$x$$ knows $$y$$ is their child
+		- Defendant $$x$$ commits incest
+			- if $$x$$ has sexual intercourse with complainant $$y$$
+			- and $$x$$ knows $$y$$ is their brother
+		- Defendant $$x$$ commits incest
+			- if $$x$$ has sexual intercourse with complainant $$y$$
+			- and $$x$$ knows $$y$$ is their sister
+		-
+		- Defendant $$x$$ commits incest
+			- if $$x$$ has sexual intercourse with complainant $$y$$
+			- and $$x$$ knows $$y$$ is their grandparent
+		- Defendant $$x$$ commits incest
+			- if $$x$$ has sexual intercourse with complainant $$y$$
+			- and $$x$$ knows $$y$$ is their grandchild
+	- ## liability
+		-
 - # text
 	- ## incest
 		- (1) Every one commits incest who, knowing that another person is by blood relationship his or her parent, child, brother, sister, grandparent or grandchild, as the case may be, has sexual intercourse with that person.
