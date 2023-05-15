@@ -1,0 +1,5 @@
+- # text
+	- ## Forcible confinement
+		- Every one who, without lawful authority, confines, imprisons or forcibly seizes another person is guilty of
+			- (a) an indictable offence and liable to imprisonment for a term not exceeding ten years; or
+			- (b) an offence punishable on summary conviction.

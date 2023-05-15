@@ -1,0 +1,24 @@
+- # text
+	- ## (1) — kidnapping
+		- Every person commits an offence who kidnaps a person with intent
+			- (a) to cause the person to be confined or imprisoned against the person’s will;
+			- (b) to cause the person to be unlawfully sent or transported out of Canada against the person’s will; or
+			- (c) to hold the person for ransom or to service against the person’s will.
+	- ## (1.1) — punishment
+		- Every person who commits an offence under subsection (1) is guilty of an indictable offence and liable
+			- (a) if a restricted firearm or prohibited firearm is used in the commission of the offence or if any firearm is used in the commission of the offence and the offence is committed for the benefit of, at the direction of, or in association with, a criminal organization, to imprisonment for life and to a minimum punishment of imprisonment for a term of
+				- (i) in the case of a first offence, five years, and
+				- (ii) in the case of a second or subsequent offence, seven years;
+			- (a.1) in any other case where a firearm is used in the commission of the offence, to imprisonment for life and to a minimum punishment of imprisonment for a term of four years;
+			- (a.2) if the person referred to in paragraph (1)(a), (b) or (c) is under 16 years of age, to imprisonment for life and, unless the person who commits the offence is a parent, guardian or person having the lawful care or charge of the person referred to in that paragraph, to a minimum punishment of imprisonment for a term of five years; and
+			- (b) in any other case, to imprisonment for life.
+	- ## (1.2) — subsequent offences
+		- In determining, for the purpose of paragraph (1.1)(a), whether a convicted person has committed a second or subsequent offence, if the person was earlier convicted of any of the following offences, that offence is to be considered as an earlier offence:
+			- (a) an offence under subsection (1);
+			- (b) an offence under subsection 85(1) or (2) or section 244 or 244.2; or
+			- (c) an offence under section 220, 236, 239, 272, 273, 279.1, 344 or 346 if a firearm was used in the commission of the offence.
+		- However, an earlier offence shall not be taken into account if 10 years have elapsed between the day on which the person was convicted of the earlier offence and the day on which the person was convicted of the offence for which sentence is being imposed, not taking into account any time in custody.
+	- ## (1.21) — factors to consider
+		- In imposing a sentence under paragraph (1.1)(a.2), the court shall take into account the age and vulnerability of the victim.
+	- ## (1.3) — sequence of convictions only
+		- For the purposes of subsection (1.2), the only question to be considered is the sequence of convictions and no consideration shall be given to the sequence of commission of offences or whether any offence occurred before or after any conviction.
