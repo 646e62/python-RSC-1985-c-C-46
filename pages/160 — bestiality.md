@@ -3,17 +3,10 @@
 - # text
 	- ## (1) — bestiality
 		- Every person who commits bestiality is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years or is guilty of an offence punishable on summary conviction.
-	- Marginal note:Compelling the commission of bestiality
-	- (2) Every
-	   person who compels another to commit bestiality is guilty of an 
-	  indictable offence and liable to imprisonment for a term not exceeding 
-	  ten years or is guilty of an offence punishable on summary conviction.
-	- -
-	- Marginal note:Bestiality in presence of or by child
-	- (3) Despite
-	   subsection (1), every person who commits bestiality in the presence of a
-	   person under the age of 16 years, or who incites a person under the age
-	   of 16 years to commit bestiality,
+	- ## (2) — Compelling the commission of bestiality
+		- Every person who compels another to commit bestiality is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years or is guilty of an offence punishable on summary conviction.
+	- ## (3) — Bestiality in presence of or by child
+	- Despite subsection (1), every person who commits bestiality in the presence of a person under the age of 16 years, or who incites a person under the age of 16 years to commit bestiality,
 	- -
 	- (a) is
 	   guilty of an indictable offence and is liable to imprisonment for a 
