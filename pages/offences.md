@@ -23,7 +23,10 @@
 	- ## Dangerous materials and devices
 	- ## Prize fights
 - # Part II.1 — terrorism
-	- ## 83
+	- ## 83.01 — interpretation
+	- ## 83.02 — terrorism financing
+	- ## 83.05 — terrorist entities
+	-
 - # Part III — firearms and other weapons
 - # Part IV — justice and law administration
 - # Part V — sexual misconduct, public morality, and disorderly conduct
