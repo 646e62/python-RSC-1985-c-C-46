@@ -1,9 +1,10 @@
 - # conditional outline
 	- ## offence
 		- ### parents and children
-			- Defendant $$x$$ commits incest
-				- if $$x$$ has sexual intercourse with complainant $$y$$
-				- and $$x$$ knows $$y$$ is their parent
+			- Defendant $$x$$ commited incest
+				- if $$x$$ had sexual intercourse with complainant $$y$$
+				- and $$x$$ knew $$y$$ is their parent
+				- and $$x$$ was not restrained by $$y$$
 				- and $$x$$ was not under duress by $$y$$
 				- and $$x$$
 			- Defendant $$x$$ commits incest
