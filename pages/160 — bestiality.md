@@ -18,4 +18,4 @@
 	- ## (6) — Application
 		- Sections 740 to 741.2 apply, with any modifications that the circumstances require, to orders made under paragraph (4)(b).
 	- ## (7) — Definition of bestiality
-		- (7) In this section, bestiality means any contact, for a sexual purpose, with an animal.
+		- In this section, bestiality means any contact, for a sexual purpose, with an animal.
