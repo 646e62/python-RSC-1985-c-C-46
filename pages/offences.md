@@ -89,7 +89,6 @@
 		- ### 180 — common nuisance
 		- ### 182 — dead body
 - # Part VI — privacy invasion
-	- ## 183 — definitions
 	- ## 184 — communication interceptions
 - # Part VII — disorderly houses, gaming, and betting
 	- ## 197 — interpretation

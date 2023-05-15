@@ -4,3 +4,5 @@
 	- ## 163 — moral corruption
 		- ### 163(7) — additional definitions
 		- ### 164(8) — additional definitions
+- # Part VI — privacy invasion
+	- ## 183 — privacy invasion (definitions)
