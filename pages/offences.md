@@ -8,9 +8,8 @@
 	- ## 35 — property defence
 	- ## 43 — protecting persons in authority
 - # Part II — public order
-	- ## Treason
-	- ## Other offences against the King's authority or person
-	- ## Prohibited acts
+	- ## 46 — treason and other offences against the King's authority or person
+	- ## 49 — prohibited acts
 	- ## Official documents
 	- ## Sedition
 	- ## Unlawful assemblies and riots
