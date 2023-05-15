@@ -58,8 +58,8 @@
 		- ### 153.1 — sexually exploiting a person with a disability
 		- ### [[155 — incest]]
 		- ### 156 — historical offences repealed
-		- ### 160 — bestiality
-		- ### 162 — voyeurism
+		- ### [[160 — bestiality]]
+		- ### [[162 — voyeurism]]
 		- ### 162.1 — intimate images
 	- ## 163 — moral corruption
 	  collapsed:: true
