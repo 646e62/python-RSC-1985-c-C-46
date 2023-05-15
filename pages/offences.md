@@ -5,8 +5,8 @@
 	- ## 32 — riot suppression
 	- ## 33.1 — self-induced extreme intoxication
 	- ## 34 — personal defence
-	- ## roperty defence
-	- ## Protecting persons in authority
+	- ## 35 — property defence
+	- ## 43 — protecting persons in authority
 - # Part II — public order
 	- ## Treason
 	- ## Other offences against the King's authority or person
