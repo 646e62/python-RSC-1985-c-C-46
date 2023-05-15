@@ -28,7 +28,10 @@
 	- ## 83.05 — terrorist entities
 	- ## 83.08 — freezing assets
 	- ## 83.13 — seizing and restraining property
-	- ## 83.14 — forfeiting
+	- ## 83.14 — forfeiting property
+	- ## 83.18 — participating, facilitating, instructing, harbouring
+	- ## 83.231 — terrorist activity hoaxes
+	- ##
 - # Part III — firearms and other weapons
 - # Part IV — justice and law administration
 - # Part V — sexual misconduct, public morality, and disorderly conduct
