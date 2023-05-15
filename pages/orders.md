@@ -1,6 +1,6 @@
 - # Part V — sexual misconduct, public morality, and disorderly conduct
 	- ## 150.1 — sexual
-		- ### [[160(4) — prohibition and restitution (bestiality)]]
+		- ### [[160(4) — prohibition or restitution (bestiality)]]
 	- ## 163 — moral corruption
 		- ### 161 — prohibition orders for certain offences
 		- ### 162.2 — prohibition orders for intimate images offences

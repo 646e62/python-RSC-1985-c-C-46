@@ -1,0 +1,7 @@
+- # text
+	- ## (4) — Order of prohibition or restitution
+		- The court may, in addition to any other sentence that it may impose under any of subsections (1) to (3),
+			- (a) make an order prohibiting the accused from owning, having the custody or control of or residing in the same premises as an animal during any period that the court considers appropriate but, in the case of a second or subsequent offence, for a minimum of five years; and
+			- (b) on application of the Attorney General or on its own motion, order that the accused pay to a person or an organization that has taken care of an animal as a result of the commission of the offence the reasonable costs that the person or organization incurred in respect of the animal, if the costs are readily ascertainable.
+	- ## (6) — Application
+		- Sections 740 to 741.2 apply, with any modifications that the circumstances require, to orders made under paragraph (4)(b).
