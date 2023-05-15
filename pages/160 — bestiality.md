@@ -1,13 +1,8 @@
 - # conditional outline
 	-
 - # text
-	- Bestiality
-	- -
-	- (1) Every
-	   person who commits bestiality is guilty of an indictable offence and 
-	  liable to imprisonment for a term not exceeding ten years or is guilty 
-	  of an offence punishable on summary conviction.
-	- -
+	- ## (1) — bestiality
+		- Every person who commits bestiality is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years or is guilty of an offence punishable on summary conviction.
 	- Marginal note:Compelling the commission of bestiality
 	- (2) Every
 	   person who compels another to commit bestiality is guilty of an 
