@@ -124,9 +124,9 @@
 	- ## 320.11 — interpretation
 	- ## 320.12 — recognition and declaration
 	- ## 320.13 — offences and punishment
-	- ## 320.27 — investigative matters
-	- ## 320.31 — evidentiary matters
-	-
+	- ## 320.27 — investigations
+	- ## 320.31 — evidence
+	- ## 320.36 — general provisions
 - # Part IX — property rights
 	-
 - # Part X — fraudulent transactions
