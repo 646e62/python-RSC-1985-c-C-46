@@ -6,19 +6,10 @@
 	- ## (2) — Compelling the commission of bestiality
 		- Every person who compels another to commit bestiality is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years or is guilty of an offence punishable on summary conviction.
 	- ## (3) — Bestiality in presence of or by child
-	- Despite subsection (1), every person who commits bestiality in the presence of a person under the age of 16 years, or who incites a person under the age of 16 years to commit bestiality,
-	- -
-	- (a) is
-	   guilty of an indictable offence and is liable to imprisonment for a 
-	  term of not more than 14 years and to a minimum punishment of 
-	  imprisonment for a term of one year; or
-	- -
-	- (b) is
-	   guilty of an offence punishable on summary conviction and is liable to 
-	  imprisonment for a term of not more than two years less a day and to a 
-	  minimum punishment of imprisonment for a term of six months.
-	- -
-	- Marginal note:Order of prohibition or restitution
+		- Despite subsection (1), every person who commits bestiality in the presence of a person under the age of 16 years, or who incites a person under the age of 16 years to commit bestiality,
+			- (a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of one year; or
+			- (b) is guilty of an offence punishable on summary conviction and is liable to imprisonment for a term of not more than two years less a day and to a minimum punishment of imprisonment for a term of six months.
+	- ## (4) — Order of prohibition or restitution
 	- (4) The court may, in addition to any other sentence that it may impose under any of subsections (1) to (3),
 	- -
 	- (a) make
