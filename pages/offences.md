@@ -10,12 +10,12 @@
 - # Part II — public order
 	- ## 46 — treason and other offences against the King's authority or person
 	- ## 49 — prohibited acts
-	- ## Official documents
-	- ## Sedition
-	- ## Unlawful assemblies and riots
-	- ## Duels
-	- ## Forcible entry and detainer
-	- ## Piracy
+	- ## 56.1 — Official documents
+	- ## 59 — sedition
+	- ## 63 — unlawful assemblies and riots
+	- ## 71 — duels
+	- ## 72 — forcible entry and detainer
+	- ## iracy
 	- ## Air and maritime safety
 	- ## Dangerous materials and devices
 	- ## Prize fights
