@@ -148,6 +148,8 @@
 	- ## 422 — contract breach, intimidation, discrimination against trade unionists
 	- ## 426 — secret commissions
 - # Part XI — property
+	- ## 428 — interpretation
+	- ## 430 — mischief
 	-
 - # Part XII — currency
 	-
