@@ -161,8 +161,11 @@
 	- ## 452 — uttering
 	- ## 455 — defacing or impairing
 	- ## 458 — instruments or materials
-	- ## 460 —
+	- ## 460 — advertising and trafficking counterfeit money or tokens
+	- ## 461 — special proof provisions
+	- ## 462 — forfeiture
 - # Part XII.2 — criminal proceeds
-	-
+	- ## 462.3 — interpretation
+	- ## 462.
 - # Part XIII — attempts, conspiracies, and accessories
 	-
