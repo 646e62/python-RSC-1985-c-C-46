@@ -1,4 +1,5 @@
 - Statutory provisions designed to be entirely interpreted by judges, with few to no interpretive clues in the text itself.
 - Common in
 	- constitutional provisions
-	- evaluative criteria
+	- exhaustive criteria
+	- non-exhaustive criteria
