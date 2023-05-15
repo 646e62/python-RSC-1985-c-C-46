@@ -169,6 +169,8 @@
 	- ## 462.31 — offence
 	- ## 462.32 — searching, seizing, and detaining criminal proceeds
 	- ## 462.37 — forfeiting criminal proceeds
-	- ## 462.47 —
+	- ## 462.47 — disclosure provisions
+	- ## 462.49 — specific forfeiture rules
+	- ## 462.5 — regulations
 - # Part XIII — attempts, conspiracies, and accessories
 	-
