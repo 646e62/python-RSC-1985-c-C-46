@@ -106,7 +106,8 @@
 	- ## 229 — murder, manslaughter, infanticide
 	- ## 240.1 — human organ trafficking
 	- ## 241 — suicide
-	-
+	- ## 241.1 — medical assistance in dying
+	- ## 242 —
 - # Part VIII.1 — conveyances
 	-
 - # Part IX — property rights
