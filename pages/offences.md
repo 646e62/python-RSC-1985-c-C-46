@@ -59,7 +59,7 @@
 		- ### [[155 — incest]]
 		- ### 156 — historical offences repealed
 		- ### [[160 — bestiality]]
-		- ### [[160(5) — prohibition or restitution breach (bestiality)]]
+		- ### [[160(5)(a) — prohibition breach (bestiality)]]
 		- ### [[162 — voyeurism]]
 		- ### 162.1 — intimate images
 	- ## 163 — moral corruption

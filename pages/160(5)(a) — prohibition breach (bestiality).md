@@ -1,5 +1,5 @@
 - # conditional outline
-	- Defendant $$x$$ commi
+	- Defendant $$x$$ breached
 - # text
 	- ## (4) — order of prohibition or restitution
 		- The court may, in addition to any other sentence that it may impose under any of subsections (1) to (3),
