@@ -15,10 +15,10 @@
 	- ## 63 — unlawful assemblies and riots
 	- ## 71 — duels
 	- ## 72 — forcible entry and detainer
-	- ## iracy
-	- ## Air and maritime safety
-	- ## Dangerous materials and devices
-	- ## Prize fights
+	- ## 74 — piracy
+	- ## 76 — air and maritime safety
+	- ## 79 — dangerous materials and devices
+	- ## 83 — prize fights
 - # Part II.1 — terrorism
 	- ## 83.01 — interpretation
 	- ## 83.02 — terrorism financing
@@ -89,9 +89,13 @@
 		- ### 180 — common nuisance
 		- ### 182 — dead body
 - # Part VI — privacy invasion
+	-
 - # Part VII — disorderly houses, gaming, and betting
+	-
 - # Part VIII — person and reputation
+	-
 - # Part VIII.1 — conveyances
+	-
 - # Part IX — property rights
 - # Part X — fraudulent transactions
 - # Part XI — property
