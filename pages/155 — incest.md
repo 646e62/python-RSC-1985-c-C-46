@@ -53,8 +53,10 @@
 				- and $$x$$ was not afraid of $$y$$
 	- ## liability
 		- ### < 14y
-			- Defendant $$x$$ is guilty of an indictable offence and liabl
+			- Defendant $$x$$ is liable to no more than 14 years of custody
+				- if $$x$$ is guilty of incest
 		- ### 5 — 14y
+			- Defendant $$x$$ is liable to at least 5 years of custody and no more than 14 y
 - # text
 	- ## incest
 		- (1) Every one commits incest who, knowing that another person is by blood relationship his or her parent, child, brother, sister, grandparent or grandchild, as the case may be, has sexual intercourse with that person.
