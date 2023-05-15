@@ -122,7 +122,11 @@
 	- ## 320.101 — conversion therapy
 - # Part VIII.1 — conveyances
 	- ## 320.11 — interpretation
-	- ##
+	- ## 320.12 — recognition and declaration
+	- ## 320.13 — offences and punishment
+	- ## 320.27 — investigative matters
+	- ## 320.31 — evidentiary matters
+	-
 - # Part IX — property rights
 	-
 - # Part X — fraudulent transactions
