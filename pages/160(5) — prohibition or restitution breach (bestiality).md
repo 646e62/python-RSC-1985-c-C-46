@@ -1,0 +1,3 @@
+- # text
+- ## offence
+	- Every person who contravenes an order made under paragraph (4)(a) is guilty of an offence punishable on summary conviction.
