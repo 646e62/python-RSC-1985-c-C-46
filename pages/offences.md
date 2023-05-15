@@ -96,7 +96,8 @@
 	- ## 198 — presumptions
 	- ## 199 — search
 	- ## 200 — obstruction
-	-
+	- ## 201 — gaming and betting
+	- ## 213 — offering, providing, or obtaining sexual services for consideration
 - # Part VIII — person and reputation
 	-
 - # Part VIII.1 — conveyances
