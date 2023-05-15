@@ -138,6 +138,10 @@
 	- ## 361 — false pretences
 	- ## 366 — forgery and forgery-like
 - # Part X — fraudulent transactions
+	- ## 379 — interpretation
+	- ## 380 — fraud
+	- ## 397 — book and document falsification
+	- ## 402.1 — identity theft and fraud
 	-
 - # Part XI — property
 	-
