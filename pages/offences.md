@@ -1,7 +1,6 @@
 - # Part I
-  collapsed:: true
-	- ## General
-	- ## Party liability
+	- ## 3.1 — general
+	- ## 21arty liability
 	- ## Law enforcement protections
 	- ## Riot suppression
 	- ## Self-induced extreme intoxication
@@ -9,7 +8,6 @@
 	- ## Property defence
 	- ## Protecting persons in authority
 - # Part II — public order
-  collapsed:: true
 	- ## Treason
 	- ## Other offences against the King's authority or person
 	- ## Prohibited acts
@@ -23,7 +21,6 @@
 	- ## Dangerous materials and devices
 	- ## Prize fights
 - # Part II.1 — terrorism
-  collapsed:: true
 	- ## 83.01 — interpretation
 	- ## 83.02 — terrorism financing
 	- ## 83.05 — terrorist entities
@@ -35,7 +32,6 @@
 	- ## 83.24 — proceedings and aggravated punishment
 	- ## 83.3 — recognizance with conditions
 - # Part III — firearms and other weapons
-  collapsed:: true
 	- ## 84 — interpretation
 	- ## 85 — use
 	- ## 88 — possession
@@ -49,7 +45,6 @@
 	- ## 117.07 — exempted persons
 	- ## 117.11 — general
 - # Part IV — justice and law administration
-  collapsed:: true
 	- ## 118 — interpretation
 	- ## 119 — corruption and disobedience
 	- ## 131 — misleading justice
