@@ -1,0 +1,2 @@
+- In the context of [[fuzzy logic]] , the Greek letter μ (mu) is commonly used to denote a membership function. A membership function is a curve that defines how each point in the input space is mapped to a membership value (or degree of membership) between 0 and 1.
+- The membership function is an important concept in [[fuzzy logic]] , as it allows us to represent uncertainty or vagueness in the system. It is used to quantify the linguistic qualifiers often used in fuzzy logic systems, such as "very", "somewhat", "more", or "less".
