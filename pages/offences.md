@@ -99,6 +99,10 @@
 	- ## 201 — gaming and betting
 	- ## 213 — offering, providing, or obtaining sexual services for consideration
 - # Part VIII — person and reputation
+	- ## 214 — interpretation
+	- ## 215 — life preservation duties
+	- ## 219 — criminal negligence
+	- ## 222 — homicide
 	-
 - # Part VIII.1 — conveyances
 	-
