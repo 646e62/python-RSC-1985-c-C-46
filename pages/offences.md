@@ -155,6 +155,10 @@
 	- ## 444 — animals
 	- ## 445.1 — cruelty to animals
 - # Part XII — currency
+	- ## 448 — interpretation
+	- ## 449 — making
+	- ## 450 — possession
+	- ## 452 — uttering
 	-
 - # Part XII.2 — criminal proceeds
 	-
