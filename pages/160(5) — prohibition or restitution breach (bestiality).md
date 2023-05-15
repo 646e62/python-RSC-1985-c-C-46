@@ -1,3 +1,7 @@
 - # text
-- ## offence
-	- Every person who contravenes an order made under paragraph (4)(a) is guilty of an offence punishable on summary conviction.
+	- ## (4) — order of prohibition or restitution
+		- The court may, in addition to any other sentence that it may impose under any of subsections (1) to (3),
+			- (a) make an order prohibiting the accused from owning, having the custody or control of or residing in the same premises as an animal during any period that the court considers appropriate but, in the case of a second or subsequent offence, for a minimum of five years; and
+			- (b) on application of the Attorney General or on its own motion, order that the accused pay to a person or an organization that has taken care of an animal as a result of the commission of the offence the reasonable costs that the person or organization incurred in respect of the animal, if the costs are readily ascertainable.
+	- ## (5) — breach of order
+		- Every person who contravenes an order made under paragraph (4)(a) is guilty of an offence punishable on summary conviction.
