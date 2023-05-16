@@ -10,4 +10,4 @@
 		- (3) Every one who communicates information that endangers the safe navigation of a ship, knowing the information to be false, is guilty of an indictable offence and liable to imprisonment for life.
 	- **==Threats causing death or injury==**
 		- (4) Every one who threatens to commit an offence under paragraph (2)(a), (b) or (c) in order to compel a person to do or refrain from doing any act, where the threat is likely to endanger the safe navigation of a ship or the safety of a fixed platform, is guilty of an indictable offence and liable to imprisonment for life.
-- The heading suggests the following text will outline an offence describing threats that cause death or injury. But the text itself just state
+- The heading suggests the following text will outline an offence describing on offence where a person threatens another resulting in death or injury. But the text itself describes an offence where a person threatens another, for the purpose of making them do or refrain from doing something,
