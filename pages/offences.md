@@ -64,8 +64,9 @@
 		- ### 81(1)(d)(ii) —  facilitating life-threatening or serious property-damaging acts by creating or possessing explosives
 		- ### 82(1) — possessing explosives
 		- ### 82(2) — possessing explosives with or for a criminal organization
-		- ### 82.3 — possessing nuclear or radiaomaterial or devices
-		-
+		- ### 82.3 — possessing nuclear or radioactive material or devices
+		- ### 82.4 — altering nuclear or radioactive material or devices
+		- ### 82.5 —
 		- ### 82.6 — threatening a nuclear offence
 	- ## 83 — prize fights
 - # Part II.1 — terrorism
