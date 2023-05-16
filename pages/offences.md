@@ -61,7 +61,7 @@
 		- ### 81(1)(b)(iii) — situating explosives or corrosive substances causing bodily harm
 		- ### 81(1)(c) — situating explosives or corrosive substances to damage property
 		- ### 81(1)(d)(i) — creating or possessing explosives to endanger life or cause serious property damage
-		- ### 81(1)(d)(ii) —
+		- ### 81(1)(d)(ii) — creating or possessing explosives to enable another to endanger life or cause serious property damage
 	- ## 83 — prize fights
 - # Part II.1 — terrorism
   collapsed:: true
