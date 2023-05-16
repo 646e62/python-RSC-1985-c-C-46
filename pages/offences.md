@@ -62,6 +62,9 @@
 		- ### 81(1)(c) — situating explosives or corrosive substances to damage property
 		- ### 81(1)(d)(i) — creating or possessing explosives to endanger life or cause serious property damage
 		- ### 81(1)(d)(ii) —  facilitating life-threatening or serious property-damaging acts by creating or possessing explosives
+		- ### 82(1) — possessing explosives
+		- ### 82(2) — possessing explosives with or for a criminal organization
+		-
 	- ## 83 — prize fights
 - # Part II.1 — terrorism
   collapsed:: true
