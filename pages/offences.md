@@ -76,8 +76,10 @@
 	- ## 83.01 — interpretation
 	- ## 83.02 — terrorism financing
 		- ### 83.02(a) — financing terrorist activities
-		- ### 83.02(b) — financing public intimidation or
+		- ### 83.02(b) — financing public intimidation or international coercion activities
+		-
 	- ## 83.05 — terrorist entities
+	-
 	- ## 83.08 — freezing assets
 	- ## 83.13 — seizing and restraining property
 	- ## 83.14 — forfeiting property
