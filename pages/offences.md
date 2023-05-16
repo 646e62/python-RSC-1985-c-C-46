@@ -56,6 +56,7 @@
 	- ## 79 — dangerous materials and devices
 		- ### 80 — breaching explosives-related duties
 		- ### 81(1)(a) — creating explosions likely to cause bodily harm, death, or serious property damage
+		- ### 81(1)(b) — intentionally creating explosions causing bodily harm
 		-
 	- ## 83 — prize fights
 - # Part II.1 — terrorism
