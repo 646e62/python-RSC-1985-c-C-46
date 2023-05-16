@@ -1,22 +1,10 @@
 - # text
-	- -
-	- When protected
-	- (4) A
-	   peace officer, and every person lawfully assisting the peace officer, 
-	  is justified in using force that is intended or is likely to cause death
-	   or grievous bodily harm to a person to be arrested, if
-	- -
-	- (a) the peace officer is proceeding lawfully to arrest, with or without warrant, the person to be arrested;
-	- -
-	- (b) the offence for which the person is to be arrested is one for which that person may be arrested without warrant;
-	- -
-	- (c) the person to be arrested takes flight to avoid arrest;
-	- -
-	- (d) the
-	   peace officer or other person using the force believes on reasonable 
-	  grounds that the force is necessary for the purpose of protecting the 
-	  peace officer, the person lawfully assisting the peace officer or any 
-	  other person from imminent or future death or grievous bodily harm; and
+	- ## (4) — when protected
+	- A peace officer, and every person lawfully assisting the peace officer, is justified in using force that is intended or is likely to cause death or grievous bodily harm to a person to be arrested, if
+		- (a) the peace officer is proceeding lawfully to arrest, with or without warrant, the person to be arrested;
+		- (b) the offence for which the person is to be arrested is one for which that person may be arrested without warrant;
+		- (c) the person to be arrested takes flight to avoid arrest;
+		- (d) the peace officer or other person using the force believes on reasonable grounds that the force is necessary for the purpose of protecting the peace officer, the person lawfully assisting the peace officer or any other person from imminent or future death or grievous bodily harm; and
 	- -
 	- (e) the flight cannot be prevented by reasonable means in a less violent manner.
 	- -
