@@ -39,7 +39,6 @@
 		- ### 69 — failing to suppress a riot as a peace officer
 	- ## 70 — unlawful drilling
 		- ### 70(3) —
-	- ## 71 — duels
 	- ## 72 — forcible entry and detainer
 	- ## 74 — piracy
 	- ## 76 — air and maritime safety
