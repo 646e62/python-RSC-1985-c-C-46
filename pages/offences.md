@@ -66,9 +66,11 @@
 		- ### 82(2) — possessing explosives with or for a criminal organization
 		- ### 82.3 — possessing nuclear or radioactive material or devices
 		- ### 82.4 — altering nuclear or radioactive material or devices
-		- ### 82.5 —
+		- ### 82.5 — committing an indictable offence to obtain nuclear or radioactive material or devices
 		- ### 82.6 — threatening a nuclear offence
 	- ## 83 — prize fights
+		- ### 83(a) — prize fighting
+		- ### 83(b) —
 - # Part II.1 — terrorism
   collapsed:: true
 	- ## 83.01 — interpretation
