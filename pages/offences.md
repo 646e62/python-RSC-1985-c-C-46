@@ -3,6 +3,8 @@
 	- ## 21 — party liability
 - # Part II — public order
 	- ## 46 — treason and other offences against the King's authority or person
+		- ### 46(1) — high treason
+		- ### 46(2) — treason
 		-
 	- ## 49 — prohibited acts
 	- ## 56.1 — Official documents
