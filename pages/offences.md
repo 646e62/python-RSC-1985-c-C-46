@@ -7,10 +7,12 @@
 		- ### 46(2) — treason
 		- ### 46(4) — conspiracy treason
 	- ## 49 — prohibited acts
-		- ### 50(1)(a) — helping an enemy leave Canada
+		- ### 50(1)(a) — helping enemies leave Canada
 		- ### 50(1)(b) — failing to prevent treason
 		- ### 51 — intimidating Parliament
 		- ### 52 — sabotage
+		- ### 53 — inciting mutiny
+		- ### 54 — assisting deserters
 		-
 	- ## 56.1 — Official documents
 	- ## 59 — sedition
