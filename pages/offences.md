@@ -1,7 +1,6 @@
 - # Part I
 	- ## 3.1 — general
 	- ## 21 — party liability
-	- ## 25 — law enforcement protections
 	- ## 32 — riot suppression
 	- ## 33.1 — self-induced extreme intoxication
 	- ## 34 — personal defence
