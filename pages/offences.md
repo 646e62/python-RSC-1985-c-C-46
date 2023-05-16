@@ -5,7 +5,7 @@
 	- ## 46 — treason and other offences against the King's authority or person
 		- ### 46(1) — high treason
 		- ### 46(2) — treason
-		-
+		- ### 46(4) — conspiracy treason
 	- ## 49 — prohibited acts
 	- ## 56.1 — Official documents
 	- ## 59 — sedition
