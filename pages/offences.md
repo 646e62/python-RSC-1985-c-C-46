@@ -44,8 +44,11 @@
 		- ### 72(2) — forcible detainer
 	- ## 74 — piracy
 		- ### 74 — piracy
-		-
+		- ### 75 — piratical acts
 	- ## 76 — air and maritime safety
+		- ### 76 — hijacking
+		- ### 77 — endangering an aircraft or airport
+		-
 	- ## 79 — dangerous materials and devices
 	- ## 83 — prize fights
 - # Part II.1 — terrorism
