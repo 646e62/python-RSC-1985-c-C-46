@@ -1,5 +1,5 @@
 - # dependencies
-	-
+	- [[25(1) — general protections]]
 - # text
 	- ## (4) — when protected
 		- A peace officer, and every person lawfully assisting the peace officer, is justified in using force that is intended or is likely to cause death or grievous bodily harm to a person to be arrested, if
