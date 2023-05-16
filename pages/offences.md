@@ -13,6 +13,8 @@
 		- ### 52 — sabotage
 		- ### 53 — inciting mutiny
 		- ### 54 — assisting deserters
+		- ### 56(a) — counselling RCMP deserters
+		- ### 56(b) — aiding, abetting, harbouring and concealing RCMP deserters
 		-
 	- ## 56.1 — Official documents
 	- ## 59 — sedition
