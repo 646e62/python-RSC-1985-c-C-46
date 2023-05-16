@@ -20,16 +20,7 @@
 	- -
 	- (e) the flight cannot be prevented by reasonable means in a less violent manner.
 	- -
-	- Marginal note:Power in case of escape from penitentiary
-	- (5) A
-	   peace officer is justified in using force that is intended or is likely
-	   to cause death or grievous bodily harm against an inmate who is 
-	  escaping from a penitentiary within the meaning of subsection 2(1) of 
-	  the Corrections and Conditional Release Act, if
-	- -
-	- (a) the
-	   peace officer believes on reasonable grounds that any of the inmates of
-	   the penitentiary poses a threat of death or grievous bodily harm to the
-	   peace officer or any other person; and
-	- -
-	- (b) the escape cannot be prevented by reasonable means in a less violent manner.
+	- ## (5) — power in case of escape from penitentiary
+		- A peace officer is justified in using force that is intended or is likely to cause death or grievous bodily harm against an inmate who is escaping from a penitentiary within the meaning of subsection 2(1) of the Corrections and Conditional Release Act, if
+			- (a) the peace officer believes on reasonable grounds that any of the inmates of the penitentiary poses a threat of death or grievous bodily harm to the peace officer or any other person; and
+			- (b) the escape cannot be prevented by reasonable means in a less violent manner.
