@@ -75,7 +75,7 @@
 - # Part II.1 — terrorism
 	- ## 83.01 — interpretation
 	- ## 83.02 — terrorism financing
-		-
+		- ### 83.02(a) —
 	- ## 83.05 — terrorist entities
 	- ## 83.08 — freezing assets
 	- ## 83.13 — seizing and restraining property
