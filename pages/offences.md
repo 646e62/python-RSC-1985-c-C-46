@@ -29,8 +29,10 @@
 		- ### 62(1)(b) — publishing content encouraging military insubordination or disloyalty
 		- ### 62(1)(c) — inciting military insubordination or disloyalty
 	- ## 63 — unlawful assemblies and riots
-		- ### 65(1) — riot
+		- ### 65(1) — rioting
 		- ### 65(2) — rioting while disguised
+		- ### 66(1) — unlawfully assembling
+		- ### 66(2) — unlawfully assembling while disguised
 	- ## 71 — duels
 	- ## 72 — forcible entry and detainer
 	- ## 74 — piracy
