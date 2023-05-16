@@ -38,8 +38,9 @@
 		- ### 68(c) — failing to disperse after an attempted proclaimation
 		- ### 69 — failing to suppress a riot as a peace officer
 	- ## 70 — unlawful drilling
-		- ### 70(3) —
+		- ### 70(3) — failing to comply with a drilling prohibition
 	- ## 72 — forcible entry and detainer
+		- ### 72 — forcible entry
 	- ## 74 — piracy
 	- ## 76 — air and maritime safety
 	- ## 79 — dangerous materials and devices
