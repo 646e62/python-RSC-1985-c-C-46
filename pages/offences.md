@@ -33,7 +33,8 @@
 		- ### 65(2) — rioting while disguised
 		- ### 66(1) — unlawfully assembling
 		- ### 66(2) — unlawfully assembling while disguised
-		- ### 68(a) — opposing, hindering or assaulting
+		- ### 68(a) — opposing, hindering or assaulting proclaimers
+		- ### 68(b) —f
 	- ## 71 — duels
 	- ## 72 — forcible entry and detainer
 	- ## 74 — piracy
