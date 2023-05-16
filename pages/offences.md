@@ -43,6 +43,7 @@
 		- ### 72(1) — forcible entry
 		- ### 72(2) — forcible detainer
 	- ## 74 — piracy
+		- ### 74 — piracy
 		-
 	- ## 76 — air and maritime safety
 	- ## 79 — dangerous materials and devices
