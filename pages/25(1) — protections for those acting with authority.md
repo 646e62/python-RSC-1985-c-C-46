@@ -1,5 +1,5 @@
 - # text
-	- Protection of persons acting under authority
+	- ## (1) — Protection of persons acting under authority
 	- 25 (1) Every one who is required or authorized by law to do anything in the administration or enforcement of the law
 	- (a) as a private person,
 	- (b) as a peace officer or public officer,
