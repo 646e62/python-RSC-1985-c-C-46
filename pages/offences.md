@@ -34,7 +34,9 @@
 		- ### 66(1) — unlawfully assembling
 		- ### 66(2) — unlawfully assembling while disguised
 		- ### 68(a) — opposing, hindering or assaulting proclaimers
-		- ### 68(b) —f
+		- ### 68(b) — failing to disperse after a proclaimation
+		- ### 68(c) — failing to disperse after an attempted proclaimation
+		-
 	- ## 71 — duels
 	- ## 72 — forcible entry and detainer
 	- ## 74 — piracy
