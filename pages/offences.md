@@ -54,7 +54,8 @@
 		- ### 78.1(3) — endangering a ship's safety through false communication
 		- ### [[78.1(4) — endangering a ship's safety through threats]]
 	- ## 79 — dangerous materials and devices
-		- ### 81 —
+		- ### 80 — breaching explosives-related duties
+		-
 	- ## 83 — prize fights
 - # Part II.1 — terrorism
   collapsed:: true
