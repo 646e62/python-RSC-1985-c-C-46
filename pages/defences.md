@@ -2,6 +2,11 @@
 	- ## 25 — law enforcement protections
 		- ### [[25(1) — general protections]]
 		- ### [[25(4) — lethal force justifications]]
+	- ## 32 — riot suppression
+	- ## 33.1 — self-induced extreme intoxication
+	- ## 34 — personal defence
+	- ## 35 — property defence
+	- ## 43 — protecting persons in authority
 - # Part V — sexual misconduct, public morality, and disorderly conduct
 	- ## 150.1 — sexual
 		- ### 150.1 — defences
