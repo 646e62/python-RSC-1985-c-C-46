@@ -1,7 +1,8 @@
 - # Part I
 	- ## 25 — law enforcement protections
 		- ### 25(1) — protections for those acting with authority
-		- ### 25(4) —
+		- ### 25(4) — lethal force justification
+		-
 - # Part V — sexual misconduct, public morality, and disorderly conduct
 	- ## 150.1 — sexual
 		- ### 150.1 — defences
