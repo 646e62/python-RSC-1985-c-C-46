@@ -55,7 +55,8 @@
 		- ### [[78.1(4) — endangering a ship's safety through threats]]
 	- ## 79 — dangerous materials and devices
 		- ### 80 — breaching explosives-related duties
-		- ### 81(1)(a) —
+		- ### 81(1)(a) — creating explosions likely to cause bodily harm, death, or serious property damage
+		-
 	- ## 83 — prize fights
 - # Part II.1 — terrorism
   collapsed:: true
