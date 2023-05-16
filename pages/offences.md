@@ -25,6 +25,7 @@
 		- ### 61(a) — seditious words
 		- ### 61(b) — seditious libel
 		- ### 61(c) — seditious conspiracy
+		-
 	- ## 63 — unlawful assemblies and riots
 	- ## 71 — duels
 	- ## 72 — forcible entry and detainer
