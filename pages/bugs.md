@@ -2,6 +2,7 @@
 	- ## overview
 		- The provision's heading suggests the following text will outline an offence describing on offence where a person threatens another resulting in death or injury. But the text itself describes an offence where a person threatens another, for the purpose of making them do or refrain from doing something, in a way that is likely to endanger a ship or fixed platform. These are very different from one another
 	- ## text
+		- ### 78(2) — endangering a ship or fixed platform's safety
 		- ==**Endangering safety of ship or fixed platform**==
 			- (2) Every one who
 				- ==(a) commits an act of violence against a person on board a ship or fixed platform,==
