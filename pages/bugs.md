@@ -2,15 +2,6 @@
 	- ## overview
 		- The provision's heading suggests the following text will outline an offence describing on offence where a person threatens another resulting in death or injury. But the text itself describes an offence where a person threatens another, for the purpose of making them do or refrain from doing something, in a way that is likely to endanger a ship or fixed platform. These are very different from one another
 	- ## text
-		- ### [[78.1(2) — endangering a ship or fixed platform's safety]]
-			- ==**Endangering safety of ship or fixed platform**==
-				- (2) Every one who
-					- ==(a) commits an act of violence against a person on board a ship or fixed platform,==
-					- ==(b) destroys or causes damage to a ship or its cargo or to a fixed platform,==
-					- ==(c) destroys or causes serious damage to or interferes with the operation of any maritime navigational facility==, or
-					- (d) places or causes to be placed on board a ship or fixed platform anything that is likely to cause damage to the ship or its cargo or to the fixed platform,
-				- where that act is likely to endanger the safe navigation of a ship or the safety of a fixed platform, is guilty of an indictable offence and liable to imprisonment for life.
-			- **False communication**
-				- (3) Every one who communicates information that endangers the safe navigation of a ship, knowing the information to be false, is guilty of an indictable offence and liable to imprisonment for life.
+		- ### [[78.1(4) — endangering a ship or fixed platform's safety]]
 			- **==Threats causing death or injury==**
 				- ==(4) Every one who threatens to commit an offence under paragraph (2)(a), (b) or (c) in order to compel a person to do or refrain from doing any act, where the threat is likely to endanger the safe navigation of a ship or the safety of a fixed platform, is guilty of an indictable offence and liable to imprisonment for life.==

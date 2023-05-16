@@ -50,7 +50,7 @@
 		- ### 77 — endangering an aircraft or airport
 		- ### 78 — offensive weapons and explosive substances
 		- ### 78.1(1) — seizing a fixed platform
-		- ### [[78.1(2) — endangering a ship or fixed platform's safety]]
+		- ### [[78.1(4) — endangering a ship or fixed platform's safety]]
 		- ### 78.1(3) — endangering a ship's safety through false communication
 		- ### [[78.1(4) — endangering a ship's safety through threats]]
 	- ## 79 — dangerous materials and devices
