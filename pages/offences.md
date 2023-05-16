@@ -5,7 +5,7 @@
 	- ## 46 — high treason, treason
 		- ### 46(1) — high treason
 		- ### 46(2) — treason
-		- ### 46(4) — conspiracy treason
+		- ### 46(4) — overt act treason
 	- ## 49 — prohibited acts
 		- ### 50(1)(a) — helping enemies leave Canada
 		- ### 50(1)(b) — failing to prevent treason
