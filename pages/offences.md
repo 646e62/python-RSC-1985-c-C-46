@@ -60,8 +60,8 @@
 		- ### 81(1)(b)(ii) — trafficking explosives causing bodily harm
 		- ### 81(1)(b)(iii) — situating explosives or corrosive substances causing bodily harm
 		- ### 81(1)(c) — situating explosives or corrosive substances to damage property
-		- ### 81(1)(d) — creating or possessing explosives to endanger life or cause serious property damage
-		-
+		- ### 81(1)(d)(i) — creating or possessing explosives to endanger life or cause serious property damage
+		- ### 81(1)(d)(ii) —
 	- ## 83 — prize fights
 - # Part II.1 — terrorism
   collapsed:: true
