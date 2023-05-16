@@ -49,7 +49,9 @@
 		- ### 76 — hijacking
 		- ### 77 — endangering an aircraft or airport
 		- ### 78 — offensive weapons and explosive substances
-		- ###
+		- ### 78.1(1) — seizing a fixed platform
+		- ### 78.1(2) — endangering a ship or fixed platform's safety
+		-
 	- ## 79 — dangerous materials and devices
 	- ## 83 — prize fights
 - # Part II.1 — terrorism
