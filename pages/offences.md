@@ -26,7 +26,7 @@
 		- ### 61(b) — seditious libel
 		- ### 61(c) — seditious conspiracy
 		- ### 62(1)(a) — disrupting military allegiance or discipline
-		-
+		- ### 62(1)(b) — disseminates
 	- ## 63 — unlawful assemblies and riots
 	- ## 71 — duels
 	- ## 72 — forcible entry and detainer
