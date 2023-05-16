@@ -7,15 +7,6 @@
 			- (d) places or causes to be placed on board a ship or fixed platform anything that is likely to cause damage to the ship or its cargo or to the fixed platform,
 		- where that act is likely to endanger the safe navigation of a ship or the safety of a fixed platform, is guilty of an indictable offence and liable to imprisonment for life.
 	- **False communication**
-	- (3) Every
-	   one who communicates information that endangers the safe navigation of a
-	   ship, knowing the information to be false, is guilty of an indictable 
-	  offence and liable to imprisonment for life.
-	- -
-	- Threats causing death or injury
-	- (4) Every
-	   one who threatens to commit an offence under paragraph (2)(a), (b) or 
-	  (c) in order to compel a person to do or refrain from doing any act, 
-	  where the threat is likely to endanger the safe navigation of a ship or 
-	  the safety of a fixed platform, is guilty of an indictable offence and 
-	  liable to imprisonment for life.
+		- (3) Every one who communicates information that endangers the safe navigation of a ship, knowing the information to be false, is guilty of an indictable offence and liable to imprisonment for life.
+	- **==Threats causing death or injury==**
+	- (4) Every one who threatens to commit an offence under paragraph (2)(a), (b) or (c) in order to compel a person to do or refrain from doing any act, where the threat is likely to endanger the safe navigation of a ship or the safety of a fixed platform, is guilty of an indictable offence and liable to imprisonment for life.
