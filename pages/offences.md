@@ -40,7 +40,7 @@
 	- ## 70 — unlawful drilling
 		- ### 70(3) — failing to comply with a drilling prohibition
 	- ## 72 — forcible entry and detainer
-		- ### 72 — forcible entry
+		- ### 72(1) — forcible entry
 	- ## 74 — piracy
 	- ## 76 — air and maritime safety
 	- ## 79 — dangerous materials and devices
