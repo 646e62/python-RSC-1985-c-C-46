@@ -70,7 +70,8 @@
 		- ### 82.6 — threatening a nuclear offence
 	- ## 83 — prize fights
 		- ### 83(a) — prize fighting
-		- ### 83(b) —
+		- ### 83(b) — advising, encouraging, or promoting prize fighting
+		- ### 83(c) — facilitating prize fighting
 - # Part II.1 — terrorism
   collapsed:: true
 	- ## 83.01 — interpretation
