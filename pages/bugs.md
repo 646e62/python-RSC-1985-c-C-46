@@ -1,4 +1,4 @@
-- cc 78.1(4)'s heading doesn't correspond to the statute's text
+- cc 78.1(4)'s heading doesn't correspond to the statute's text:
 	- **Endangering safety of ship or fixed platform**
 		- (2) Every one who
 			- (a) commits an act of violence against a person on board a ship or fixed platform,
@@ -9,4 +9,5 @@
 	- **False communication**
 		- (3) Every one who communicates information that endangers the safe navigation of a ship, knowing the information to be false, is guilty of an indictable offence and liable to imprisonment for life.
 	- **==Threats causing death or injury==**
-	- (4) Every one who threatens to commit an offence under paragraph (2)(a), (b) or (c) in order to compel a person to do or refrain from doing any act, where the threat is likely to endanger the safe navigation of a ship or the safety of a fixed platform, is guilty of an indictable offence and liable to imprisonment for life.
+		- (4) Every one who threatens to commit an offence under paragraph (2)(a), (b) or (c) in order to compel a person to do or refrain from doing any act, where the threat is likely to endanger the safe navigation of a ship or the safety of a fixed platform, is guilty of an indictable offence and liable to imprisonment for life.
+- The heading suggests the following text will outline an offence describing threats that cause death or injury. But the text itself just state
