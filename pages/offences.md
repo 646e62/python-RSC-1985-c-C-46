@@ -36,6 +36,7 @@
 		- ### 68(a) — opposing, hindering or assaulting proclaimers
 		- ### 68(b) — failing to disperse after a proclaimation
 		- ### 68(c) — failing to disperse after an attempted proclaimation
+		- ### 69 — failing to suppress a riot as a peace officer
 		-
 	- ## 71 — duels
 	- ## 72 — forcible entry and detainer
