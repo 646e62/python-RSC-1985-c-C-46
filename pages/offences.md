@@ -22,6 +22,8 @@
 		- ### 57(3) — forged passport possession
 		- ### 58 — fraudulent citizenship certificate use
 	- ## 59 — sedition
+		- ### 61(a) — seditious words
+		- ### 61(a) — seditious words
 	- ## 63 — unlawful assemblies and riots
 	- ## 71 — duels
 	- ## 72 — forcible entry and detainer
