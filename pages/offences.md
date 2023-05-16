@@ -15,7 +15,6 @@
 		- ### 54 — assisting deserters
 		- ### 56(a) — counselling RCMP deserters
 		- ### 56(b) — aiding, abetting, harbouring and concealing RCMP deserters
-		-
 	- ## 56.1 — Official documents
 	- ## 59 — sedition
 	- ## 63 — unlawful assemblies and riots
@@ -26,6 +25,7 @@
 	- ## 79 — dangerous materials and devices
 	- ## 83 — prize fights
 - # Part II.1 — terrorism
+  collapsed:: true
 	- ## 83.01 — interpretation
 	- ## 83.02 — terrorism financing
 	- ## 83.05 — terrorist entities
@@ -37,6 +37,7 @@
 	- ## 83.24 — proceedings and aggravated punishment
 	- ## 83.3 — recognizance with conditions
 - # Part III — firearms and other weapons
+  collapsed:: true
 	- ## 84 — interpretation
 	- ## 85 — use
 	- ## 88 — possession
@@ -50,6 +51,7 @@
 	- ## 117.07 — exempted persons
 	- ## 117.11 — general
 - # Part IV — justice and law administration
+  collapsed:: true
 	- ## 118 — interpretation
 	- ## 119 — corruption and disobedience
 	- ## 131 — misleading justice
@@ -67,7 +69,6 @@
 		- ### [[162 — voyeurism]]
 		- ### [[162.1 — intimate images]]
 	- ## 163 — moral corruption
-	  collapsed:: true
 		- ### 163 — obscene materials
 		- ### 163.1(1) — child pornography definitions
 		- ### 163.1(2) — making child pornography
@@ -82,7 +83,6 @@
 		- ### 172 — corrupting children
 		- ### 172.1 — luring a child
 	- ## 172.2 — Disorderly conduct
-	  collapsed:: true
 		- ### 172.2 — agreeing to or arranging sexual offences against children
 		- ### 173(1) — indecent acts
 		- ### 173(2) — exposure
@@ -91,12 +91,13 @@
 		- ### 176 — obstructing, assaulting, threatening, or arresting clergy
 		- ### 177 — trespassing at night
 	- ## 180 — Nuisances
-	  collapsed:: true
 		- ### 180 — common nuisance
 		- ### 182 — dead body
 - # Part VI — privacy invasion
+  collapsed:: true
 	- ## 184 — communication interceptions
 - # Part VII — disorderly houses, gaming, and betting
+  collapsed:: true
 	- ## 197 — interpretation
 	- ## 198 — presumptions
 	- ## 199 — search
@@ -104,6 +105,7 @@
 	- ## 201 — gaming and betting
 	- ## 213 — offering, providing, or obtaining sexual services for consideration
 - # Part VIII — person and reputation
+  collapsed:: true
 	- ## 214 — interpretation
 	- ## 215 — life preservation duties
 	- ## 219 — criminal negligence
@@ -126,6 +128,7 @@
 	- ## 318 — hate propaganda
 	- ## 320.101 — conversion therapy
 - # Part VIII.1 — conveyances
+  collapsed:: true
 	- ## 320.11 — interpretation
 	- ## 320.12 — recognition and declaration
 	- ## 320.13 — offences and punishment
@@ -133,6 +136,7 @@
 	- ## 320.31 — evidence
 	- ## 320.36 — general provisions
 - # Part IX — property rights
+  collapsed:: true
 	- ## 321 — interpretation
 	- ## 322 — theft
 	- ## 335 — theft-like
@@ -143,6 +147,7 @@
 	- ## 361 — false pretences
 	- ## 366 — forgery and forgery-like
 - # Part X — fraudulent transactions
+  collapsed:: true
 	- ## 379 — interpretation
 	- ## 380 — fraud
 	- ## 397 — book and document falsification
@@ -153,6 +158,7 @@
 	- ## 422 — contract breach, intimidation, discrimination against trade unionists
 	- ## 426 — secret commissions
 - # Part XI — property
+  collapsed:: true
 	- ## 428 — interpretation
 	- ## 430 — mischief
 	- ## 430 — arson and other fires
@@ -160,6 +166,7 @@
 	- ## 444 — animals
 	- ## 445.1 — cruelty to animals
 - # Part XII — currency
+  collapsed:: true
 	- ## 448 — interpretation
 	- ## 449 — making
 	- ## 450 — possession
@@ -170,6 +177,7 @@
 	- ## 461 — special proof provisions
 	- ## 462 — forfeiture
 - # Part XII.2 — criminal proceeds
+  collapsed:: true
 	- ## 462.3 — interpretation
 	- ## 462.31 — offence
 	- ## 462.32 — searching, seizing, and detaining criminal proceeds
