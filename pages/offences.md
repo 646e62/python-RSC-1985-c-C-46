@@ -2,12 +2,12 @@
 	- ## 3.1 — general
 	- ## 21 — party liability
 - # Part II — public order
-	- ## 46 — treason and other offences against the King's authority or person
+	- ## 46 — high treason, treason
 		- ### 46(1) — high treason
 		- ### 46(2) — treason
 		- ### 46(4) — conspiracy treason
-		-
 	- ## 49 — prohibited acts
+		-
 	- ## 56.1 — Official documents
 	- ## 59 — sedition
 	- ## 63 — unlawful assemblies and riots
