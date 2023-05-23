@@ -10,7 +10,7 @@ include other offences.
 
 from facts import high_treason_facts
 from rules import high_treason_rules
-from models import Facts
+from models import Facts, Complainant
 from input_correction import standardize_sovereign_names, standardize_canada_names
 
 
@@ -24,13 +24,14 @@ def create_facts():
     victim_name = input("Who is the victim? ")
     victim_name = standardize_sovereign_names(victim_name)
     victim_name = standardize_canada_names(victim_name)
+    complainant = Complainant(victim_name)
 
     offence_date = input("Date of the offence (YYYY-MM-DD): ")
     jurisdiction = input("Jurisdiction: ")
 
     actions = high_treason_facts(victim_name)
 
-    return Facts(victim_name, offence_date, jurisdiction, actions)
+    return Facts(complainant.name, offence_date, jurisdiction, actions)
 
 facts = create_facts()
 
