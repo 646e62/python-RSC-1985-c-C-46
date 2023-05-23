@@ -35,40 +35,56 @@ are defined in terms of the following acts:
 * Using violence to overthrow a provincial government
 
 ## 46(2)(b) — military secrets
-* Nature: military or scientific
-* Medium: sketch, plan, model, article, note, document, information
-* Target: foreign state agent
-* Effect: prejudicial to: safety, defence
+* One or more of each of the following:
+  * Nature: military or scientific
+  * Medium: sketch, plan, model, article, note, document, information
+  * Target: foreign state agent
+  * Effect: prejudicial to: safety, defence
 
 ## 46(2)(c) — treason conspiracy
+* Conspiracy to commit high treason
+* Conspiracy to commit a 46(2)(b) offence
 
 ## 46(2)(d) — treason intention with overt act
+
 
 ## 46(2)(e) — military secret treason and intention with overt act
 
 """
 
+# High treason
+
+## Rules
+
 def high_treason_rules(facts):
     """
     Checks if the facts of the case make out the offence of high treason.
     """
-
     # Actions that constitute high treason
-    high_treason_actions = [("Sovereign", ["kill"]), ("Sovereign", ["kill", "attempt"]),
-                            ("Sovereign", ["bodily harm", "tending to death"]),
-                            ("Sovereign", "bodily_harm_tending_to_destruction"),
-                            ("Sovereign", "maim"), ("Sovereign", "wound"),
-                            ("Sovereign", "imprison"), ("Sovereign", "restrain"),
-                            ("Canada", "levy_war"), ("Canada", "prepare_levy_war"),
-                            ("Canada", "assist_warring_enemy"), ("Canada", "assist_hostile_force")]
+    high_treason_actions = [("sovereign", ["kill"]), 
+                            ("sovereign", ["kill", "attempt"]),
+                            ("sovereign", ["bodily harm", "tending to death"]),
+                            ("sovereign", ["bodily harm", "tending to destruction"]),
+                            ("sovereign", ["maim"]), 
+                            ("sovereign", ["wound"]),
+                            ("sovereign", ["imprison"]), 
+                            ("sovereign", ["restrain"]),
+                            ("canada", ["levy_war"]), 
+                            ("canada", ["prepare", "levy war"]),
+                            ("canada", ["assist warring enemy"]), 
+                            ("canada", ["assist hostile force"])]
 
     # Check if any of the actions in the facts are in the list of high treason actions
+    
     for action in facts.actions:
-        if action in high_treason_actions:   # Here, action refers to the entire tuple
-            return True
+        for high_treason_action in high_treason_actions:
+            if action[0] == high_treason_action[0] and action[1] == high_treason_action[1]:
+                return True
 
     return False
 
+
+## Facts
 
 def high_treason_facts(victim_name):
     """
@@ -80,8 +96,8 @@ def high_treason_facts(victim_name):
         attack_on_sovereign_actions = [
             ("Did the defendant kill the king?", ["kill"]),
             ("Did the defendant attempt to kill the king?", ["kill", "attempt"]),
-            ("Did the defendant do bodily harm to the king tending to death?", ["bodily harm", "tending to cause death"]),
-            ("Did the defendant do bodily harm to the king tending to destruction?", ["bodily harm", "tending_to cause destruction"]),
+            ("Did the defendant do bodily harm to the king tending to death?", ["bodily harm", "tending to death"]),
+            ("Did the defendant do bodily harm to the king tending to destruction?", ["bodily harm", "tending to destruction"]),
             ("Did the defendant maim the king?", ["maim"]),
             ("Did the defendant wound the king?", ["wound"]),
             ("Did the defendant imprison the king?", ["imprison"]),
@@ -89,9 +105,9 @@ def high_treason_facts(victim_name):
         ]
 
         for question in attack_on_sovereign_actions:
-            response = input(question + " (yes/no): ")
+            response = input(question[0] + " (yes/no): ")
             if response.lower() == 'yes':
-                actions.append((victim_name, question[1]))
+                actions.append(("sovereign", question[1]))
 
     elif victim_name.lower() == 'canada':
         war_against_canada_actions = [
@@ -102,12 +118,14 @@ def high_treason_facts(victim_name):
         ]
 
         for question in war_against_canada_actions:
-            response = input(question + " (yes/no): ")
+            response = input(question[0] + " (yes/no): ")
             if response.lower() == 'yes':
-                actions.append(question)
+                actions.append(("canada", question[1]))
 
     return actions
 
+
+# Input correction
 
 def standardize_sovereign_names(name):
     """
@@ -115,7 +133,7 @@ def standardize_sovereign_names(name):
     """
     known_aliases = ('queen', 'king', 'queen elizabeth', 'king charles')
     if name.lower() in known_aliases:
-        return 'Sovereign'
+        return 'sovereign'
     else:
         return name
 
@@ -125,9 +143,11 @@ def standardize_canada_names(name):
     """
     known_aliases = ('nation of canada', 'canadian people', 'canadian military')
     if name.lower() in known_aliases:
-        return 'Canada'
+        return 'canada'
     else:
         return name
+
+# UI
 
 def create_facts():
     """
@@ -147,6 +167,8 @@ def create_facts():
 
     return Facts(victim_name, offence_date, jurisdiction, actions)
 
+# Fact class
+
 class Facts:
     """
     A basic class capable of handling the minimum facts required for a high treason offence.
@@ -157,6 +179,7 @@ class Facts:
         self.jurisdiction = jurisdiction
         self.actions = actions if actions is not None else []
 
+# Program execution
 
 facts = create_facts()
 
