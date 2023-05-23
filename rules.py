@@ -1,8 +1,9 @@
-# High treason actions
+# High treason
+## Actions
 HIGH_TREASON_ACTIONS = [("sovereign", ["kill"]), 
                         ("sovereign", ["kill", "attempt"]),
-                        ("sovereign", ["bodily harm", "tending to death"]),
-                        ("sovereign", ["bodily harm", "tending to destruction"]),
+                        ("sovereign", ["cause bodily harm", "tending to death"]),
+                        ("sovereign", ["cause bodily harm", "tending to destruction"]),
                         ("sovereign", ["maim"]), 
                         ("sovereign", ["wound"]),
                         ("sovereign", ["imprison"]), 
@@ -12,7 +13,7 @@ HIGH_TREASON_ACTIONS = [("sovereign", ["kill"]),
                         ("canada", ["assist warring enemy"]), 
                         ("canada", ["assist hostile force"])]
 
-# Rules
+## Rules
 def high_treason_rules(facts):
     """
     Checks if the facts of the case make out the offence of high treason.
@@ -24,3 +25,12 @@ def high_treason_rules(facts):
                 return True
 
     return False
+
+# Treason
+
+## Actions
+TREASON_ACTIONS = [("canada", ["specific intent", "use force", "overthrow government"]),
+                   ("canada", ["specific intent", "use violence", "overthrown government"]),
+                   ("province", ["specific intent", "use force", "overthrow government"]),
+                   ("province", ["specific intent", "use violence", "overthrown government"]),
+                   ]
