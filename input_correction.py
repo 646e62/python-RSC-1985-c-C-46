@@ -73,3 +73,4 @@ def treason_location_type(input_string: str) -> str:
 
     # Return the corresponding value if the input string is in the dictionary, else return "Unknown"
     return locations.get(input_string.lower(), "Unknown")
+
